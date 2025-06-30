@@ -1,4 +1,4 @@
 
-### Heading
+### Introduction
 
 ### History of Strawberry
