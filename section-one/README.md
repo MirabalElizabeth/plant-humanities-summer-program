@@ -3,4 +3,6 @@
 
 ### History of Strawberry
 
-I want to italicize *this word*
+**I want to bold this word**.
+
+
