@@ -1,8 +1,8 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-title="title"    
-source-image="link"   
+title="Strawberry"    
+source-image="https://upload.wikimedia.org/wikipedia/commons/e/ef/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_halved.jpg"   
 banner="link" 
 height=100
 author="author"
