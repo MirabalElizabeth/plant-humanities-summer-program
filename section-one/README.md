@@ -3,7 +3,7 @@
 <param ve-config 
 title="Strawberry"    
 source-image="https://upload.wikimedia.org/wikipedia/commons/e/ef/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_halved.jpg"   
-banner="link" 
+banner="https://upload.wikimedia.org/wikipedia/commons/e/ef/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_halved.jpg" 
 height=100
 author="author"
 layout="vertical">
