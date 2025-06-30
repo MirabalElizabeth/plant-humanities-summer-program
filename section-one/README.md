@@ -13,8 +13,8 @@ layout="vertical">
 
 This is a *filler paragraph*. **This is a filler paragraph**. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. 
 <param ve-image
-	   scr="wc;Catalogue_of_pot_grown_and_layer_strawberries_-_also_a_list_of_bulbous_flower_roots_and_specialties_for_fall_planting_(1891)_(20590174831).jpg#file"
-	   caption="This is am image of a strawberry".>
+	   scr="wc:Catalogue_of_pot_grown_and_layer_strawberries_-_also_a_list_of_bulbous_flower_roots_and_specialties_for_fall_planting_(1891)_(20590174831).jpg#file"
+	   caption="This is a image of a strawberry".>
 
 # Introduction
 
