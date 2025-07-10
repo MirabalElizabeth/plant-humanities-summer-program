@@ -15,11 +15,12 @@ Strawberries have a long history, enjoyed both as a wild fruit and cultivated cr
 	   center="38.91588,-77.06338"
 	   zoom="16"
 	   caption="This is the location of Dumbarton Oaks in Washington, D.C.">
-
+	   
+Strawberries have a long history, enjoyed both as a wild fruit and cultivated crop [^1]. Ancient Romans used them medicinally, and Native Americans made strawberry bread. Cultivation began in Europe in the 1300s, with the modern strawberry (*Fragaria × ananassa*) emerging from hybridization in the 18th century.
 <param ve-map
-	   center="48.8588, 2.2869"
-	   zoom="10"
-	   caption= "This is Paris.">
+	   center="43.77841,11.24365"
+	   zoom="13"
+	   caption= "This is Florence">
 	  
 	   
 
