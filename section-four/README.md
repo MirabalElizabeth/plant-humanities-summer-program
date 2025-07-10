@@ -16,8 +16,15 @@ Strawberries have a long history, enjoyed both as a wild fruit and cultivated cr
 	   caption= "This is a map of US that shows native range of wild strawberry">
 	   
 <param ve-map-layer geojson
-	   url="https://raw.githubusercontent.com/MirabalElizabeth/plant-humanities-summer-program/refs/heads/main/section-four/map.json">
-	  
+	   url="https://raw.githubusercontent.com/MirabalElizabeth/plant-humanities-summer-program/refs/heads/main/section-four/map.json"
+	   show-labels
+	   stroke-width="0">
+<param ve-map-marker
+url="wc:Fragaria_virginiana_%28wild_strawberry%29_%28Great_Smoky_Mountains%2C_Tennessee%2C_USA%29_1_%2836641037730%29.jpg"
+	   coords="45.233,-68.993"
+	   circle="true">
+	   
+
 
 
 	   
