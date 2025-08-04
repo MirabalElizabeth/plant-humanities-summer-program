@@ -16,9 +16,13 @@ Strawberries (scientific name: *Fragaria*) are plants whose fruits have been val
 	   caption="Collection of seventy-eight watercolor plates of plants. 
 [18th century?], Dumbarton Oaks Research Library, Washington, D.C.">
 
-Across literary history, strawberries have inspired sensual connotations as well as less favorable ones and have even been associated with evil characteristics. As Monica Gagliano, John C. Ryan, and Patrícia Viera have noted, literature has generally been more attentive to the plant world than philosophy and science, despite its appropriations and the biases against the vegetal universe[^1].
+Across literary history, strawberries have inspired sensual connotations as well as less favorable ones and have even been associated with evil characteristics. As Monica Gagliano, John C. Ryan, and Patrícia Viera have noted, literature has generally been more attentive to the plant world than philosophy and science, despite its appropriations and the biases against the vegetal universe[^1].There is a long-standing Indigenous and Western tradition of "botanically curious" authors and literary texts that have generated what plant studies scholarship defines as vegetal textuality, in other words, textual works with plant-based themes [^2].
+<param ve-iframe
+               src="https://archive.org/details/thelanguageofplants">
 
-
+In this section, one of our aims is to explore the different meanings and associations that the strawberry plant holds in literary traditions. While aware that this vegetal textuality is an extrinsic language often imposed on plants, we are also interested in examining how these literary approaches "provide us with insight into the mysteries of plant lives and inspire societies to figure out what a distinctly vegetal form of thinking, being, and acting would be like"[^3].In essence, we aspire to uncover unique qualities, captivating twists, and intriguing paradoxes that have shaped the influential presence of strawberry plants in literature.
+<param ve-iframe
+               src="https://archive.org/details/thelanguageofplants/page/n17/mode/2up">
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
@@ -39,4 +43,6 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
                src="https://archive.org/details/completemanualfo00pard/page/n6">
 
 
-[^1]: This is a footnote.
+[^1]: Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, The Language of Plants: Science, Philosophy, Literature (Minneapolis: U of Minnesota P, 2017), p. X. 
+[^2]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, The Language of Plants, p. XVI
+[^3]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, The Language of Plants, p. XVII.
