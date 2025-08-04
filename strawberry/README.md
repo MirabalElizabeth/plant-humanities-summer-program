@@ -28,8 +28,7 @@ The Roman poet Ovid, in his *Metamorphoses*, depicted strawberries as symbols of
 <param ve-iframe
 	  src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQDraHwbz1u4trTEIi-TTe5AUpNqFydsVHQOyfB8Q3k8C5jymaInWJhTmoyN_zwtoQWwboULF_2SM3E&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 	   
-	  
-
+The extrinsic language imposed on the strawberry plant through humanlike projection helps explain why, still in *The Tragedy of Othello, the Moor of Venice*, William Shakespeare used Desdemona’s white handkerchief adorned with strawberries as a powerful symbol of infidelity. The silk handkerchief, featuring embroidered spots of strawberries also dyed with pigments extracted from the hearts of mummified maidens, possesses magical powers and serves as Othello’s first gift to his wife. Therefore, it also becomes the false evidence of infidelity that Iago manipulates, ultimately driving Othello to murder Desdemona. As Lawrence J. Ross has argued, the handkerchief is not merely decorated: it is spotted by the strawberries as Desdemona in Othello’s eyes is now also stained[^7].
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
