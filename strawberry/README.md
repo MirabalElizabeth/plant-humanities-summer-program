@@ -24,6 +24,8 @@ In this section, one of our aims is to explore the different meanings and associ
 <param ve-iframe
                src="https://archive.org/details/thelanguageofplants/page/n17/mode/2up">
 
+The Roman poet Ovid, in his Metamorphoses, depicted strawberries as symbols of prosperity during the Golden Age—a time of such abundance that cultivation was unnecessary[^4].This positive view of strawberries takes a notable turn in the poet Virgil’s third Eclogue. In this poem, strawberry plants are portrayed as perilous. Because of their closeness to the ground, they may hide deadly threats, such as vipers[^5].This literary assessment resonates more with the pre-Linnaean botanical classification, which focused on a vertical hierarchy among plants and in which the ones growing near the soil were often regarded as inferior and labeled as vulgar, unhealthy, or even dangerous[^6].
+
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
 	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
@@ -46,3 +48,6 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^1]: Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, The Language of Plants: Science, Philosophy, Literature (Minneapolis: U of Minnesota P, 2017), p. X. 
 [^2]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, The Language of Plants, p. XVI
 [^3]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, The Language of Plants, p. XVII.
+[^4]:Dickenson, Victoria. Berries. (S.l.: Reaktion Books, 2020), pp. 44-5.
+[^5]:Dickenson, Victoria. Berries, p. 47.
+[^6]:Grieco, Allen J., "The Social Politics of Pre-Linnaean Botanical Classification," Tatti Studies in the Italian Renaissance, 4 (1991), p. 141.
