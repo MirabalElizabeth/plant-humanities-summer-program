@@ -33,6 +33,9 @@ The extrinsic language imposed on the strawberry plant through humanlike project
 	   src="wc:Othello_and_Desdemona_by_Daniel_Maclis.jpg"
 	   caption="*Othello and Desdemona*, Daniel Maclise, 1859, Wikipedia Commons. In this painting, Desdemona holds the ominous handkerchief with strawberries.">
 
+By the early nineteenth century, we find more cheerful approaches to strawberries. Novels such as Jane Austen’s *Emma* celebrated the popularity of strawberry parties among the upper classes, highlighting the delight they provided as a motive for pastime and outdoor activity. From one of the characters’ perspectives (Mrs. Elton), the Victorian novelist conveys the prominence and centrality that strawberries had attained in the cultural imaginary of the time. Austen underscores that the art of cultivating strawberries served not only as a source of entertainment and solace but also involved considerable physical effort: "Strawberries, and only strawberries, could now be thought or spoken of. ‘The best fruit in England—everybody’s favorite—always wholesome (…). Delightful to gather for one’s self—the only way of really enjoying them (…) only objection to gathering strawberries the stooping—glaring sun—tired to death—could bear it no longer—must go and sit in the shade.’"[^8]
+<param ve-iframe
+               src="https://archive.org/details/EmmaJaneAusten_753/page/n359/mode/2up">
 
 
 
@@ -55,10 +58,11 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
                src="https://archive.org/details/completemanualfo00pard/page/n6">
 
 
-[^1]: Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, The Language of Plants: Science, Philosophy, Literature (Minneapolis: U of Minnesota P, 2017), p. X. 
-[^2]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, The Language of Plants, p. XVI
-[^3]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, The Language of Plants, p. XVII.
-[^4]:Dickenson, Victoria. Berries. (S.l.: Reaktion Books, 2020), pp. 44-5.
-[^5]:Dickenson, Victoria. Berries, p. 47.
-[^6]:Grieco, Allen J., "The Social Politics of Pre-Linnaean Botanical Classification," Tatti Studies in the Italian Renaissance, 4 (1991), p. 141.
-[^7]:Ross, Lawrence J., "The Meaning of Strawberries in Shakespeare," Studies in the Renaissance, 7 (1960), p. 239.
+[^1]: Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants: Science, Philosophy, Literature* (Minneapolis: U of Minnesota P, 2017), p. X. 
+[^2]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants*, p. XVI
+[^3]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants*, p. XVII.
+[^4]:Dickenson, Victoria. *Berries*. (S.l.: Reaktion Books, 2020), pp. 44-5.
+[^5]:Dickenson, Victoria. *Berries*, p. 47.
+[^6]:Grieco, Allen J., "The Social Politics of Pre-Linnaean Botanical Classification," *Tatti Studies in the Italian Renaissance*, 4 (1991), p. 141.
+[^7]:Ross, Lawrence J., "The Meaning of Strawberries in Shakespeare," *Studies in the Renaissance*, 7 (1960), p. 239.
+[^8]:Austen, Jane. *Emma* (London: MacMillan and Co, 1896), p. 323.
