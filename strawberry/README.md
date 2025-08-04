@@ -16,7 +16,7 @@ Strawberries (scientific name: *Fragaria*) are plants whose fruits have been val
 	   caption="Collection of seventy-eight watercolor plates of plants. 
 [18th century?], Dumbarton Oaks Research Library, Washington, D.C.">
 
-Across literary history, strawberries have inspired sensual connotations as well as less favorable ones and have even been associated with evil characteristics. As Monica Gagliano, John C. Ryan, and Patrícia Viera have noted, literature has generally been more attentive to the plant world than philosophy and science, despite its appropriations and the biases against the vegetal universe.[^1]
+Across literary history, strawberries have inspired sensual connotations as well as less favorable ones and have even been associated with evil characteristics. As Monica Gagliano, John C. Ryan, and Patrícia Viera have noted, literature has generally been more attentive to the plant world than philosophy and science, despite its appropriations and the biases against the vegetal universe[^1].
 
 
 
