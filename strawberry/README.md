@@ -38,6 +38,8 @@ By the early nineteenth century, we find more cheerful approaches to strawberrie
                src="https://archive.org/details/EmmaJaneAusten_753/page/n359/mode/2up">
 
 Beyond the Atlantic, the strawberry plant enjoyed its original Ovidian meaning among American transcendental writers, although it still retained erotic connotations. For instance, in Wild Fruits, Henry David Thoreau proclaims that strawberries are "the first blush of a country, its morning red, a sort of ambrosial food that grows only on Olympian soil."[^9] His unwavering focus on a plant, which, assuming an affective reading, qualifies as "so humble that it is an unnoticed carpet,"[^10] emerges among his vast botanical endeavors. He included two specimens of Fragaria virginiana in sequence 44 of the herbarium he compiled between 1850 and 1862 and documented his encounters with the strawberry plant in his diaries during his botanizing sessions on more than one occasion[^11].
+<param ve-iframe
+               src="https://archive.org/details/wildfruits00henr">
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
