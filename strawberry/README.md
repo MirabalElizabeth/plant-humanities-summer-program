@@ -12,8 +12,13 @@ layout="vertical">
 
 Strawberries (scientific name: *Fragaria*) are plants whose fruits have been valued, consumed, and extensively cultivated. Throughout history, strawberries have been featured in illuminated manuscripts, herbaria, books on the language of flowers, herbals, and various literary works. They are hypervisible, charismatic, and ubiquitous in the human world. This emphasis on the strawberry fruit has led to its objectification, rendering the plant itself unrecognizable.
 <param ve-image
-	   src="gh:MirabalElizabeth/plant-humanities-summer-program/main/section-two/Fragaria1716.jpg"
-	   caption="Fragaria chiloensis (Coastal Strawberry) in Relation du voyage de la mer du Sud, aux côtes du Chili, du Pérou et de Brésil, fait pendant les années 1712, 1713, et 1714 by Amédée-François Frézier.">
+	   src="gh:MirabalElizabeth/plant-humanities-summer-program/main/strawberry/Frezes.jpg.jpg"
+	   caption="Collection of seventy-eight watercolor plates of plants. 
+[18th century?], Dumbarton Oaks Research Library, Washington, D.C.">
+
+Across literary history, strawberries have inspired sensual connotations as well as less favorable ones and have even been associated with evil characteristics. As Monica Gagliano, John C. Ryan, and Patrícia Viera have noted, literature has generally been more attentive to the plant world than philosophy and science, despite its appropriations and the biases against the vegetal universe.
+
+
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
