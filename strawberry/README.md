@@ -46,6 +46,10 @@ Moving beyond a masculine perspective, another American poet, who lacked the pub
 	   src="wc:Emily_Dickinson.jpg"
 	   caption="Daguerreotype of the poet Emily Dickinson, ca. 1848. The poet is holding violet flowers.">
 
+Dickinson’s deep fascination with the strawberry plant transcended her literary endeavors, blossoming into a vibrant herbarium she nurtured during her time at Amherst Academy, a passion she carried for seven years. The lower left corner of sheet 52 of her herbarium features a specimen of wild strawberry (*Fragaria virginiana*), where Dickinson carefully notes details such as the typical five-petaled flower, displayed both in full bloom and still in bud, as well as the serrated edges of the leaves. Imagining the yellow stamens flourishing between April and May gives us a vision of Dickinson exploring the Amherst woods in springtime. As we appreciate these carefully dried leaves, we may recall the droplets that occasionally form on strawberry leaves. It is not difficult then to portray her admiring the phenomenon known as "guttation," where water is exuded from the tips of leaf blades to relieve internal water pressure.
+<param ve-iframe
+               src="https://iiif.lib.harvard.edu/manifests/view/drs:4184689$52i">
+
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
 	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
