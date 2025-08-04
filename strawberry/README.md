@@ -52,6 +52,8 @@ Dickinson’s deep fascination with the strawberry plant transcended her literar
 			   
 ### Strawberry Beyond the Anglophone and European Spheres
 
+Used for centuries by the Picunche, Huilliche, and Mapuche indigenous peoples of the southernmost regions of the Andes to produce a highly esteemed fermented drink called lahueñe mushca, as well as an abortive substance, Fragaria chiloensis, the so-called Chilean strawberry, became known to Iberians in Chile in the mid-sixteenth century[^14]. As the Spanish soldier Alonso González de Nájera recalled, indigenous Chilean populations used strawberry fields as part of their resistance strategies against the foreign forces. In his reminiscences, González de Nájera detailed that they planted the "frutilla" on hillsides and prominent parts of the mountains to attract the conquistadors to the fields and then attack them by surprise as they ate the strawberries[^15]. 
+
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
 	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
@@ -84,3 +86,5 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^11]: To access to the strawberry plants collected by Thoreau, please visit the *Herbarium of Henry David Thoreau*, 1850-1862, Portfolio 2, Special Collections, Archives of the Gray Herbarium, Harvard University, seq. 44, https://nrs.lib.harvard.edu/URN-3:FMUS.GRA:104975392
 [^12]:Dickinson, Emily. *The Complete Poems of Emily Dickinson* (New York: Back Bay Books, 1976), p. 
 [^13]: Dickinson, Emily. *The Complete Poems of Emily Dickinson*, p. 115.
+[^14]: See Sevilla, Elisa, and Ana Sevilla, "Strawberry," in *New World Objects of Knowledge: A Cabinet of Curiosities*, ed. Mark Thurner and Juan Pimentel (London: U of London, 2021), p. 210, and Darrow, George M. *The Strawberry. History, Breeding, and Physiology* (New York: Holt Rinehart and Winston, 1966), pp. 24-5.
+[^15]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile* (Madrid: Imprenta de la viuda de Calero, 1866), p. 168. Translation by Elizabeth Mirabal (E.M.). 
