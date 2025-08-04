@@ -25,6 +25,11 @@ In this section, one of our aims is to explore the different meanings and associ
                src="https://archive.org/details/thelanguageofplants/page/n17/mode/2up">
 
 The Roman poet Ovid, in his Metamorphoses, depicted strawberries as symbols of prosperity during the Golden Age—a time of such abundance that cultivation was unnecessary[^4].This positive view of strawberries takes a notable turn in the poet Virgil’s third Eclogue. In this poem, strawberry plants are portrayed as perilous. Because of their closeness to the ground, they may hide deadly threats, such as vipers[^5].This literary assessment resonates more with the pre-Linnaean botanical classification, which focused on a vertical hierarchy among plants and in which the ones growing near the soil were often regarded as inferior and labeled as vulgar, unhealthy, or even dangerous[^6].
+<param ve-iframe
+	  src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQDraHwbz1u4trTEIi-TTe5AUpNqFydsVHQOyfB8Q3k8C5jymaInWJhTmoyN_zwtoQWwboULF_2SM3E&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+	   
+	  
+
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
