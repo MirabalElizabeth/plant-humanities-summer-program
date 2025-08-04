@@ -40,6 +40,11 @@ By the early nineteenth century, we find more cheerful approaches to strawberrie
 Beyond the Atlantic, the strawberry plant enjoyed its original Ovidian meaning among American transcendental writers, although it still retained erotic connotations. For instance, in Wild Fruits, Henry David Thoreau proclaims that strawberries are "the first blush of a country, its morning red, a sort of ambrosial food that grows only on Olympian soil."[^9] His unwavering focus on a plant, which, assuming an affective reading, qualifies as "so humble that it is an unnoticed carpet,"[^10] emerges among his vast botanical endeavors. He included two specimens of Fragaria virginiana in sequence 44 of the herbarium he compiled between 1850 and 1862 and documented his encounters with the strawberry plant in his diaries during his botanizing sessions on more than one occasion[^11].
 <param ve-iframe
                src="https://archive.org/details/wildfruits00henr">
+			   
+Moving beyond a masculine perspective, another American poet, who lacked the public presence of Thoreau at the time—, highlights strawberries as a symbol of the freedom that has been denied to the poem’s feminine lyrical subject. In Emily Dickinson’s poem, the strawberry plants grow over the fence that encloses the garden from which she writes. The lyrical "I" explores the idea of not only crossing that barrier and enjoying the strawberries as an act of triumph and liberation —"I could climb —if I tried, I know—/Berries are nice!"[^12]— but also plays with the idea of a transmutation that would shield her from the social condemnation associated with trespassing: "Oh, dear, — I guess if He were a Boy — He’d — climb — if He could!"[^13]. By humanizing the divine figure of God, Dickinson emphasizes that even the most perfect being would find it impossible to resist the temptation of strawberries and the desire for the independence they inspire.
+<param ve-image
+	   src="wc:Emily_Dickinson.jpg"
+	   caption="Daguerreotype of the poet Emily Dickinson, ca. 1848. The poet is holding violet flowers.">
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
@@ -71,3 +76,5 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^9]:Thoreau, Henry D. *Wild Fruits* (New York: W.W. Norton & Company, 2001), pp.15-6.
 [^10]:Thoreau, Henry D. *Wild Fruits*, p. 12.
 [^11]: To access to the strawberry plants collected by Thoreau, please visit the *Herbarium of Henry David Thoreau*, 1850-1862, Portfolio 2, Special Collections, Archives of the Gray Herbarium, Harvard University, seq. 44, https://nrs.lib.harvard.edu/URN-3:FMUS.GRA:104975392
+[^12]:Dickinson, Emily. *The Complete Poems of Emily Dickinson* (New York: Back Bay Books, 1976), p. 
+[^13]: Dickinson, Emily. *The Complete Poems of Emily Dickinson*, p. 115.
