@@ -136,7 +136,13 @@ As Saxton shows, picking strawberries requires workers to be stooped over for ho
 <param ve-image
 src="wc:Farm_workers_pick_strawberries_in_in_Fort_Valley%2C_GA_20190507-OSEC-LSC-0744_%2840898326723%29.jpg"
 	   caption="Farm workers pick strawberries in Fort Valley, Georgia, 2019.">
-	   
+
+This serious ailment results from acute compression, traction, or laceration at the fibular head, commonly arising from activities like squatting, casting, or wearing tight boots.  We invite you to reflect on this reality the next time you savor a strawberry. The continuous and unnatural availability of these fruits in the market comes at a significant cost: their cultivators often pay with their physical health. 
+<param ve-image
+src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
+	   caption="Strawberries for sale at the U.S. Department of Agriculture (USDA)
+                Farmer’s Market, Ken Hammond, Washington, D.C., 2006.">
+
 ### References:
 [^1]: Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants: Science, Philosophy, Literature* (Minneapolis: U of Minnesota P, 2017), p. X. 
 [^2]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants*, p. XVI
