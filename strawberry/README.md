@@ -133,7 +133,10 @@ src="wc:Queensland_State_Archives_2394_Strawberry_field_group_picking_at_Simpson
 	   caption="Strawberry field group picking at Simpson's strawberry field, Blackall Range, 1899.">
 	   
 As Saxton shows, picking strawberries requires workers to be stooped over for hours in often toxic and dangerous conditions, leading farmworkers to call them "la fruta del diablo" [the Devil’s fruit] [^33]. Those who work in strawberry fields describe their labor as the most grueling of all. Strawberry plants typically grow to a height of 4 to 5 inches and are cultivated in beds that are 8 to 12 inches off the ground, necessitating that farmworkers bend over for 10 to 12 hours a day to harvest the fruit[^34].This intense physical strain can lead to a condition known as foot drop, often referred to as "Strawberry Pickers’ Palsy." 
-
+<param ve-image
+src="wc:Farm_workers_pick_strawberries_in_in_Fort_Valley%2C_GA_20190507-OSEC-LSC-0744_%2840898326723%29.jpg"
+	   caption="Farm workers pick strawberries in Fort Valley, Georgia, 2019.">
+	   
 ### References:
 [^1]: Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants: Science, Philosophy, Literature* (Minneapolis: U of Minnesota P, 2017), p. X. 
 [^2]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants*, p. XVI
