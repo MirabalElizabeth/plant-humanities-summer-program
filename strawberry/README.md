@@ -73,18 +73,18 @@ Similar dynamics occur within the visual universe of *Fragaria chiloensis*. Even
 <param ve-compare
                src="wc:India_en_traje_de_gala.jpg">
 			   			   
-Only in *Yapanga de Quito con el trage [sic] que usan esta clase de mugeres [sic] que tratan de agradar*, Albán chooses to depict the strawberry plant growing on the ground. He identifies the plant with the letter "G" and delineates it as "A small tree that produces strawberries, resembling those from Spain but much thicker and sweeter[^24]." As Daniela Bleichmar eloquently elucidated, the description indicates that the audience for these works was one unversed in the American products and that Mutis probably commissioned them as a patronage gift for a colonial Iberian institution such as the Natural History Cabinet[^25].
+Only in *Yapanga de Quito con el trage [sic] que usan esta clase de mugeres [sic] que tratan de agradar*, Albán chooses to depict the strawberry plant growing on the ground. He identifies the plant with the letter "G" and delineates it as "A small tree that produces strawberries, resembling those from Spain but much thicker and sweeter[^18]." As Daniela Bleichmar elucidated, the description indicates that the audience for these works was one unversed in the American products and that Mutis probably commissioned them as a patronage gift for a colonial Iberian institution such as the Natural History Cabinet[19].
 <param ve-image
 	   src="wc:Yapanga_de_Quito_con_traje_que_usa_esta_clase_de_mujeres_que_tratan_de_agradar_01.jpg"
 	   caption="Yapanga de Quito con trage que usa esta clase de mugeres que tratan de agradar, Vicente Albán, 1783,
 Museo de América, Spain.">
 
-The common representation of *Fragaria chiloensis*, which primarily focuses on its exotic appeal and commercial value, as seen in European descriptions and paintings commissioned by Mutis, contrasts with the lyrical interpretations offered by Chilean poet Gabriela Mistral, the first Ibero-American woman to receive the Nobel Prize in Literature in 1945. Mistral, who in her work often sought to reestablish a connection with the Andean and indigenous ancestry of her country, in a poem like "La fresa" invites the reader-lover to show reverence before the strawberry plant: "Do not bruise the earth,/do not squeeze the fragrant one./For her love, lower yourself,/smell her and give her your mouth"[^26]. In this way, she embraces the evocative sensualism of the strawberry, a fruit shaped like a human heart and typically red. Nevertheless, she also demands a vision of the strawberry not as a mere object or commodity but as a living plant that requires us to bend down, acknowledge it, and surrender ourselves to its power. In doing so, the poet accentuates the strawberry plant’s inherent ability to seduce and dominate, along with its mystery and sense of opacity.
+The common representation of *Fragaria chiloensis*, which primarily focuses on its exotic appeal and commercial value, as seen in European descriptions and paintings commissioned by Mutis, contrasts with the lyrical interpretations offered by Chilean poet Gabriela Mistral. Mistral, who in her work often sought to reestablish a connection with the Andean and indigenous ancestry of her country, in the poem "La fresa" invites the reader-lover to show reverence before the strawberry plant: "Do not bruise the earth,/do not squeeze the fragrant one./For her love, lower yourself,/smell her and give her your mouth"[^20]. In this way, she embraces the evocative sensualism of the strawberry, a fruit shaped like a human heart and typically red. Nevertheless, she also demands a vision of the strawberry not as a mere commodity but as a living plant that requires us to bend down and surrender ourselves to its power. In doing so, the poet accentuates the strawberry plant’s inherent ability to seduce, along with its mystery and sense of opacity.
 <param ve-image
 	   src="gh:MirabalElizabeth/plant-humanities-summer-program/main/strawberry/20250708_140039 OS.jpg"
 	   caption="*Fragaria chiloensis* in Duhamel du Monceau’s *Traité des arbres fruitiers*, 1778, Oak Spring Library.">
 
-As we have been observing, before the arrival of European colonizers in South America, indigenous populations had an extensive knowledge of and relationship with the strawberry plant. In a similar vein, Indigenous peoples in New England had woven strawberries into their ontology long before the English settlers arrived in North America. For the Iroquois, for example, strawberries are connected to the original creation and are considered a gift from Sky Woman, alongside the three sisters of traditional agriculture: corn, beans, and squash. They are the first fruits of spring and are celebrated annually at the strawberry festival[^27]. The deep link this community has with the plant is palpable not only in their mythology and oral traditions but also in their handicrafts.
+As we have been observing, before the arrival of European colonizers in South America, indigenous populations had an extensive knowledge of and relationship with the strawberry plant. In a similar vein, Indigenous peoples in New England had woven strawberries into their ontology long before the English settlers arrived in North America. For the Iroquois, for example, strawberries are connected to the original creation and are considered a gift from Sky Woman, alongside the three sisters of traditional agriculture: corn, beans, and squash. They are the first fruits of spring and are celebrated annually at the strawberry festival[^21]. The deep link this community has with the plant is palpable not only in their mythology and oral traditions but also in their handicrafts.
 <param ve-video
                src="RSi39qSrVYI"
                start="0:00"
@@ -96,21 +96,26 @@ The elaborate and delicate Iroquois handbag that you can see here showcases tiny
 	   src="gh:MirabalElizabeth/plant-humanities-summer-program/main/strawberry/cartera.jpg"
 	   caption="Iroquois handbag, Samuel L. Thomas, 2001, Niagara Falls, United States.The British Museum.">
 	   
-In a different kind of festivity than the nineteenth-century European strawberry parties, the Connecticut River Powwow Society hosts their annual Strawberry Moon Powwow in late June in Somers, Connecticut. During this celebration, they prepare Strawberry Moon Tea with frozen and fresh strawberries and sassafras and serve it chilled or hotl[^28]. Cherokees believe that strawberries have properties that can help mend lovers’ disagreementsl[^29].
+In a different kind of festivity than the nineteenth-century European strawberry parties, the Connecticut River Powwow Society hosts their annual Strawberry Moon Powwow in late June in Somers, Connecticut. During this celebration, they prepare Strawberry Moon Tea with frozen and fresh strawberries and sassafras and serve it chilled or hotl[^22]. Cherokees believe that strawberries have properties that can help mend lovers’ disagreementsl[^23].
 <param ve-video
                src="o4g9av0v3pY"
                start="0:21"
                end="2:00"
 			   caption="Cherokee Storytelling: Origin of the Strawberry.">
 
-Strawberries evoke relationships rooted in kinship, affection, and emotional connections among North American Indigenous people. Potawatomi writer Robin Wall Kimmerer beautifully expresses this sentiment: "In a way, I was raised by strawberries, fields of them[^30]." In her reflection, Kimmerer imbues strawberry plants with a maternal, protective, and formative role. She further illustrates this connection by recounting the mythic origin story, in which Sky Woman ascends back to the firmament, leaving behind the plants as teachers for her people[^31].This myth allows us to fully appreciate the writer’s intimate relationship with the strawberry plants, which she understands as sources of knowledge, as well as spiritual comfort and safety.	
-<param ve-iframe
-               src="https://archive.org/details/braiding-sweetgrass-indigenous-wisdom-scientific-knowledge-and-the-teachings-of-plants_202212/page/21/mode/2up">
+Strawberries evoke relationships rooted in kinship, affection, and emotional connections among North American Indigenous people. Potawatomi writer Robin Wall Kimmerer beautifully expresses this sentiment: "In a way, I was raised by strawberries, fields of them[^24]." In her reflection, Kimmerer imbues strawberry plants with a maternal, protective, and formative role. She further illustrates this connection by recounting the mythic origin story, in which Sky Woman ascends back to the firmament, leaving behind the plants as teachers for her people[^25].This myth allows us to fully appreciate the writer’s intimate relationship with the strawberry plants, which she understands as sources of knowledge, as well as spiritual comfort and safety.	
+<param ve-video
+               src="j2U4zGhudRg"
+               start="0:15"
+               end="25:44"
+			   caption="Chapter 3: The Gift of Strawberries by Robin Wall Kimmerer. Read by Sen Naomi Kirst-Schultz.">
 			   
 ### Between Sensuality and the "Devil’s Fruit": The Paradoxes of the Strawberry Plant    
 
-How is it that a plant often associated with sensuality comes to be known as the "Devil’s Fruit"? To answer this question, we should consider a perceptive observation by Yota Batsaki and Philip Gant: "Plants have many personalities depending on their specific environmental and cultural contexts[^32]". Drawing on the research of anthropologist Dvera I. Saxton, we aim to present the contrast between the positive associations we have examined—such as sensuality and beauty, or the festive spirit linked to the strawberry plant—and the undesirable connotations that it may have for contemporary farmworkers. 
-
+How is it that a plant often associated with sensuality comes to be known as the "Devil’s Fruit"? To answer this question, we should consider a perceptive observation by Yota Batsaki and Philip Gant: "Plants have many personalities depending on their specific environmental and cultural contexts[^26]". Drawing on the research of anthropologist Dvera I. Saxton, we aim to present the contrast between the positive associations we have examined—such as sensuality and beauty, or the festive spirit linked to the strawberry plant—and the undesirable connotations that it may have for contemporary farmworkers. 
+<param ve-image
+	   src="wc:Strawberry_gatherers_%281880%29%2C_by_William_Gunning_King.jpg"
+	   caption="Strawberry gatherers by William Gunning King, 1880.">
 	   
 As Saxton shows, picking strawberries requires workers to be stooped over for hours in often toxic and dangerous conditions, leading farmworkers to call them "la fruta del diablo" [the Devil’s fruit] [^33]. Those who work in strawberry fields describe their labor as the most grueling of all. Strawberry plants typically grow to a height of 4 to 5 inches and are cultivated in beds that are 8 to 12 inches off the ground, necessitating that farmworkers bend over for 10 to 12 hours a day to harvest the fruit[^34].This intense physical strain can lead to a condition known as foot drop, often referred to as "Strawberry Pickers’ Palsy." 
 <param ve-image
@@ -140,15 +145,15 @@ src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 [^15]:The increasing popularity of *Fragaria chiloensis* became so significant that it began to be incorporated into garden designs well into the 20th century. A notable example can be found at Dumbarton Oaks. In her "Plant List: Path Edging from the South Gate to the Fountain Terrace of the Orangery," Beatrix Farrand included Fragaria chiloensis in the section titled "Spring Bulbs and Ground Covers." Additionally, it appeared in "Plant List: The Green Garden" under "Ground Covers." In Farrand’s instructions for "Enclosed Gardens," she explained that *Fragaria chiloensis* can only be used in the garden for a limited number of years because "as it is deciduous and the planting of the Garden Green should be evergreen, in order to be attractive throughout the winter when the garden is under frequent observation from the drawing-room windows and from the upper windows of the northeast part of the house." Farrand, Beatrix. *Beatrix Farrand’s Plant Book for Dumbarton Oaks*, ed. Jonathan Kavalier (Washington, D.C.: Dumbarton Oaks, 2022), p. 89. *Fragaria chiloensis* is considered an evergreen perennial herb with semi-dormant behavior. Farrand’s confusion may have arisen because the floral behavior of *Fragaria chiloensis*, has only been fully studied in recent times. Today, the Gardens and Grounds in Dumbarton Oaks do not grow this variety, but they have introduced *Fragaria virginiana* to test as a possible native groundcover, since this is the *Fragaria* species native to the eastern United States (Jonathan Kavalier in correspondence with Elizabeth Mirabal, July 7, 2025). 
 [^16]:Pablo Neruda, as documented by Lesley Wylie, had several books on Chilean plants in his personal library, including the 1716 French edition of Frézier’s work. See Wylie, Leslie. *The Poetics of Plants in Spanish American Literature*. (Pittsburgh: U of Pittsburg, 2024).
 [^17]:Frézier, Amédée François. *A Voyage to the South-Sea, and along the Coasts of Chili and Peru* (London: Jonah Bowyer, 1717), p. 76.
+[^18]:Translation by E.M.
+[^19]:Bleichmar, Daniela. *Visual Voyages. Images of Latin American Nature from Columbus to Darwin* (New Haven: Yale UP, 2017), p. 150. 
+[^20]:Mistral, Gabriela. "La fresa" in *Ternura* (México, D.F.: Espasa-Calpe Mexicana, 1989), p. 118. Translation by E.M.
+[^21]:Dickenson, Victoria. *Berries*, p. 59.
+[^22]: Kavasch, E. Barrie.*Enduring Harvests: Native American Foods and Festivals for Every Season* (Old Saybrook, Connecticut: Globe Pequot P, 1995), p. 266.
+[^23]: Dickenson, Victoria. *Berries*, p. 59.
+[^24]: Kimmerer, Robin Wall. *Braiding Sweetgrass for Young Adults: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants* (Minneapolis: Zest Books, 2022), p. 32.
+[^25]: Kimmerer, Robin Wall, "Ancient Green: Moss, Climate and Deep Time," *Emergence Magazine*, April 20, 2022, https://emergencemagazine.org/essay/ancient-green/
 
-[^24]:Translation by E.M.
-[^25]:Bleichmar, Daniela. *Visual Voyages. Images of Latin American Nature from Columbus to Darwin* (New Haven: Yale UP, 2017), p. 150. 
-[^26]:Mistral, Gabriela. "La fresa" in *Ternura* (México, D.F.: Espasa-Calpe Mexicana, 1989), p. 118. Translation by E.M.
-[^27]:Dickenson, Victoria. *Berries*, p. 59.
-[^28]: Kavasch, E. Barrie.*Enduring Harvests: Native American Foods and Festivals for Every Season* (Old Saybrook, Connecticut: Globe Pequot P, 1995), p. 266.
-[^29]: Dickenson, Victoria. *Berries*, p. 59.
-[^30]: Kimmerer, Robin Wall. *Braiding Sweetgrass for Young Adults: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants* (Minneapolis: Zest Books, 2022), p. 32.
-[^31]: Kimmerer, Robin Wall, "Ancient Green: Moss, Climate and Deep Time," *Emergence Magazine*, April 20, 2022, https://emergencemagazine.org/essay/ancient-green/
 [^32]:Batsaki, Yota, and Philip Gant, "The Secret Life of Kudzu," *Scientific American*, August 1, 2019, https://www.scientificamerican.com/blog/observations/the-secret-life-of-kudzu/
 [^33]: Saxton, Dvera I. *The Devil’s Fruit: Farmworkers, Health, and Environmental Justice* (New Brunswick: Rutgers UP, 2021), pp. 56-7.
 [^34]:"La Fruta del Diablo. Battle for Justice in California Strawberry Fields," *Revolutionary Worker*, May 4, 1997, https://revcom.us/a/v19/905-09/905/farm.htm
