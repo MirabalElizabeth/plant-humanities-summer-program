@@ -60,6 +60,8 @@ Used for centuries by the Picunche, Huilliche, and Mapuche indigenous peoples of
 			   caption="Video *The Origins of Frutilla Blanca: A One-Of-A-Kind Strawberry From Chile* by Richard Bernard and Ligia Parisi.">
 			   
 In what may be one of the earliest European descriptions of *Fragaria chiloensis*, González de Nájera noted that the fruit was extremely attractive, delicious, fragrant, and healthy, although he mentioned it was "somewhat phlegmy." [^16] He claimed it could rival the best fruits from Spain in quality. With a keen descriptive eye, González de Nájera remarked that the strawberries were heart-shaped, with the largest resembling small eggs and the smallest resembling walnuts, and coming in white or pink hues. The Spaniard concluded by accentuating their pleasant melting quality in the mouth, mentioning that indigenous people made wine from them and dried them in the sun to create raisins that were enjoyable to eat [^17].
+<param ve-iframe
+               src="https://archive.org/details/desengaoyreparo00njgoog/page/54/mode/2up">
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
