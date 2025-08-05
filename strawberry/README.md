@@ -130,7 +130,7 @@ Strawberries evoke relationships rooted in kinship, affection, and emotional con
 How is it that a plant often associated with sensuality comes to be known as the "Devil’s Fruit"? To answer this question, we should consider a perceptive observation by Yota Batsaki and Philip Gant: "Plants have many personalities depending on their specific environmental and cultural contexts[^32]". Drawing on the research of anthropologist Dvera I. Saxton, we aim to present the contrast between the positive associations we have examined—such as sensuality and beauty, or the festive spirit linked to the strawberry plant—and the undesirable connotations that it may have for contemporary farmworkers. 
 <param ve-image
 src="wc:Queensland_State_Archives_2394_Strawberry_field_group_picking_at_Simpsons_strawberry_field_Blackall_Range_c_1899.png"
-	   caption="Strawberry field group picking at Simpson's strawberry field, Blackall Range, 1899.">
+	   caption="Group picking at Simpson's strawberry field, Blackall Range, 1899.">
 	   
 As Saxton shows, picking strawberries requires workers to be stooped over for hours in often toxic and dangerous conditions, leading farmworkers to call them "la fruta del diablo" [the Devil’s fruit] [^33]. Those who work in strawberry fields describe their labor as the most grueling of all. Strawberry plants typically grow to a height of 4 to 5 inches and are cultivated in beds that are 8 to 12 inches off the ground, necessitating that farmworkers bend over for 10 to 12 hours a day to harvest the fruit[^34].This intense physical strain can lead to a condition known as foot drop, often referred to as "Strawberry Pickers’ Palsy." 
 <param ve-image
