@@ -115,7 +115,13 @@ The elaborate and delicate Iroquois handbag that you can see here showcases tiny
 	   caption="Iroquois handbag, Samuel L. Thomas, 2001, Niagara Falls, United States.The British Museum.">
 	   
 In a different kind of festivity than the nineteenth-century European strawberry parties, the Connecticut River Powwow Society hosts their annual Strawberry Moon Powwow in late June in Somers, Connecticut. During this celebration, they prepare Strawberry Moon Tea with frozen and fresh strawberries and sassafras and serve it chilled or hotl[^28]. Cherokees believe that strawberries have properties that can help mend lovers’ disagreementsl[^29].
-
+<param ve-video
+               src="o4g9av0v3pY"
+               start="0:21"
+               end="2:00"
+			   caption="Cherokee Storytelling: Origin of the Strawberry.">
+			   
+			   
 	   Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production[^25]. 
 <param ve-compare
 	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
