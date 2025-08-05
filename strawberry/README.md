@@ -57,7 +57,7 @@ Used for centuries by the Picunche, Huilliche, and Mapuche indigenous peoples of
                src="CsyligH85mU"
                start="0:21"
                end="0:39"
-			   caption="Video "The Origins of Frutilla Blanca: A One-Of-A-Kind Strawberry From Chile" by Richard Bernard and Ligia Parisi">
+			   caption="Video *The Origins of Frutilla Blanca: A One-Of-A-Kind Strawberry From Chile* by Richard Bernard and Ligia Parisi.">
 			   
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
