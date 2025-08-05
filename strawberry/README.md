@@ -76,6 +76,7 @@ Although this strawberry variant was unfamiliar to Europeans, historical evidenc
 <param ve-compare
                src="wc:Rozier_-_Cours_d’agriculture%2C_tome_5%2C_pl._4%2C_fig1.png">
 		
+In Chapter XI of the first part of *Comentarios reales* (1609), titled "De las frutas de árboles mayores," Inca Garcilaso de la Vega refers to a fruit that he calls "chili," which is the indigenous name he typically used for the region we now know as Chile: "Another fruit, called chili, arrived in Cuzco in 1557; it is very tasty and very attractive; it grows on low plants, almost lying on the ground; it has a ridge at the top, like the ‘madroño’ tree, and is the same size, not round but somewhat elongated in the shape of a heart."[^20].  The inclusion of "chili" by De la Vega in his chronicle confirms that pre-Columbian populations in South America had a strong association with the fruit long before Spanish explorers noted it in their writings or French naval officer Captain Amédée François Frézier found the Chilean strawberry on Concepción Island.
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
@@ -114,3 +115,4 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^16]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile*, p. 55. 
 [^17]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile*, p. 55. 
 [^18]: De Ovalle, Alonso. *Histórica relación del Reyno de Chile* (Roma: Francisco Cauallo, 1646), p. 8. Translation by E.M.
+[^19]:Hancock, J. F., A. Lavín, and J.B. Retamales, "Our Southern Strawberry Heritage: Fragaria chiloensis of Chile," *HortScience*, 34 (1999), p. 814.
