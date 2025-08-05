@@ -91,7 +91,24 @@ Similar dynamics occur within the visual universe of *Fragaria chiloensis*. Even
 <param ve-compare
                src="wc:India_en_traje_de_gala.jpg">
 			   			   
-Only in *Yapanga de Quito con el trage [sic] que usan esta clase de mugeres [sic] que tratan de agradar*, Albán chooses to depict the strawberry plant growing on the ground. He identifies the plant with the letter "G" and delineates it as "A small tree that produces strawberries, resembling those from Spain but much thicker and sweeter[^24]." As Daniela Bleichmar eloquently elucidated, the description indicates that the audience for these works was one unversed in the American products and that Mutis probably commissioned them as a patronage gift for a colonial Iberian institution such as the Natural History Cabinet. 
+Only in *Yapanga de Quito con el trage [sic] que usan esta clase de mugeres [sic] que tratan de agradar*, Albán chooses to depict the strawberry plant growing on the ground. He identifies the plant with the letter "G" and delineates it as "A small tree that produces strawberries, resembling those from Spain but much thicker and sweeter[^24]." As Daniela Bleichmar eloquently elucidated, the description indicates that the audience for these works was one unversed in the American products and that Mutis probably commissioned them as a patronage gift for a colonial Iberian institution such as the Natural History Cabinet[^25].
+<param ve-image
+	   src="wc:Yapanga_de_Quito_con_traje_que_usa_esta_clase_de_mujeres_que_tratan_de_agradar_01.jpg"
+	   caption="Yapanga de Quito con trage que usa esta clase de mugeres que tratan de agradar, Vicente Albán, 1783,
+Museo de América, Spain.">
+
+The common representation of *Fragaria chiloensis*, which primarily focuses on its exotic appeal and commercial value, as seen in European descriptions and paintings commissioned by Mutis, contrasts with the lyrical interpretations offered by Chilean poet Gabriela Mistral, the first Ibero-American woman to receive the Nobel Prize in Literature in 1945. Mistral, who in her work often sought to reestablish a connection with the Andean and indigenous ancestry of her country, in a poem like "La fresa" invites the reader-lover to show reverence before the strawberry plant: "Do not bruise the earth,/do not squeeze the fragrant one./For her love, lower yourself,/smell her and give her your mouth"[^26]. In this way, she embraces the evocative sensualism of the strawberry, a fruit shaped like a human heart and typically red. Nevertheless, she also demands a vision of the strawberry not as a mere object or commodity but as a living plant that requires us to bend down, acknowledge it, and surrender ourselves to its power. In doing so, the poet accentuates the strawberry plant’s inherent ability to seduce and dominate, along with its mystery and sense of opacity.
+<param ve-image
+	   src="gh:MirabalElizabeth/plant-humanities-summer-program/main/strawberry/20250708_140039 OS.jpg"
+	   caption="*Fragaria chiloensis* in Duhamel du Monceau’s *Traité des arbres fruitiers*, 1778, Oak Spring Library.">
+
+As we have been observing, before the arrival of European colonizers in South America, indigenous populations had an extensive knowledge of and relationship with the strawberry plant. In a similar vein, Indigenous peoples in New England had woven strawberries into their ontology long before the English settlers arrived in North America. For the Iroquois, for example, strawberries are connected to the original creation and are considered a gift from Sky Woman, alongside the three sisters of traditional agriculture: corn, beans, and squash. They are the first fruits of spring and are celebrated annually at the strawberry festival[^27]. The deep link this community has with the plant is palpable not only in their mythology and oral traditions but also in their handicrafts.
+<param ve-video
+               src="RSi39qSrVYI"
+               start="0:00"
+               end="1:02"
+			   caption="*The Indigenous story of the strawberry*, City News.">
+
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production[^25]. 
 <param ve-compare
 	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
@@ -136,3 +153,5 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^23]:Frézier, Amédée François. *A Voyage to the South-Sea, and along the Coasts of Chili and Peru* (London: Jonah Bowyer, 1717), p. 76.
 [^24]:Translation by E.M.
 [^25]:Bleichmar, Daniela. *Visual Voyages. Images of Latin American Nature from Columbus to Darwin* (New Haven: Yale UP, 2017), p. 150. 
+[^26]:Mistral, Gabriela. "La fresa" in *Ternura* (México, D.F.: Espasa-Calpe Mexicana, 1989), p. 118. Translation by E.M.
+[^27]:Dickenson, Victoria. *Berries*, p. 59.
