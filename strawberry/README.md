@@ -10,25 +10,17 @@ layout="vertical">
 
 ### The Vegetal Textuality of Strawberries
 
-Strawberries (scientific name: *Fragaria*) are plants whose fruits have been valued, consumed, and extensively cultivated. Throughout history, strawberries have been featured in illuminated manuscripts, herbaria, books on the language of flowers, herbals, and various literary works. They are hypervisible, charismatic, and ubiquitous in the human world. This emphasis on the strawberry fruit has led to its objectification, rendering the plant itself unrecognizable.
+Across literary history, strawberries have inspired sensual connotations as well as less favorable ones and have even been associated with evil characteristics. There is a long-standing Indigenous and Western tradition of "botanically curious" authors and literary texts that have generated what plant studies scholarship defines as *vegetal textuality*, in other words, textual works with plant-based themes[^1]. In this section, one of our aims is to explore the different meanings and associations that the strawberry plant holds in literary traditions. While aware that this vegetal textuality is an extrinsic language often imposed on plants, we are interested in examining how these literary approaches uncover the intriguing paradoxes that have shaped the influential presence of strawberry plants in literature.
 <param ve-image
 	   src="gh:MirabalElizabeth/plant-humanities-summer-program/main/strawberry/Frezes.jpg.jpg"
 	   caption="Collection of seventy-eight watercolor plates of plants. 
 [18th century?], Dumbarton Oaks Research Library, Washington, D.C.">
 
-Across literary history, strawberries have inspired sensual connotations as well as less favorable ones and have even been associated with evil characteristics. As Monica Gagliano, John C. Ryan, and Patrícia Viera have noted, literature has generally been more attentive to the plant world than philosophy and science, despite its appropriations and the biases against the vegetal universe[^1].There is a long-standing Indigenous and Western tradition of "botanically curious" authors and literary texts that have generated what plant studies scholarship defines as vegetal textuality, in other words, textual works with plant-based themes [^2].
-<param ve-iframe
-               src="https://archive.org/details/thelanguageofplants">
-
-In this section, one of our aims is to explore the different meanings and associations that the strawberry plant holds in literary traditions. While aware that this vegetal textuality is an extrinsic language often imposed on plants, we are also interested in examining how these literary approaches "provide us with insight into the mysteries of plant lives and inspire societies to figure out what a distinctly vegetal form of thinking, being, and acting would be like"[^3].In essence, we aspire to uncover unique qualities, captivating twists, and intriguing paradoxes that have shaped the influential presence of strawberry plants in literature.
-<param ve-iframe
-               src="https://archive.org/details/thelanguageofplants/page/n17/mode/2up">
-
-The Roman poet Ovid, in his *Metamorphoses*, depicted strawberries as symbols of prosperity during the Golden Age—a time of such abundance that cultivation was unnecessary[^4].This positive view of strawberries takes a notable turn in the poet Virgil’s *Third Eclogue*. In this poem, strawberry plants are portrayed as perilous. Because of their closeness to the ground, they may hide deadly threats, such as vipers[^5].This literary assessment resonates more with the pre-Linnaean botanical classification, which focused on a vertical hierarchy among plants and in which the ones growing near the soil were often regarded as inferior and labeled as vulgar, unhealthy, or even dangerous[^6].
+Classical writers have conflicting interpretations of the strawberry plant, ranging from a symbol of prosperity to one of danger. The Roman poet Ovid, in his *Metamorphoses*, depicted strawberries during the Golden Age in such abundance that cultivation was unnecessary[^2].The Ovidian positive view takes a notable turn in the poet Virgil’s *Third Eclogue*, where strawberry plants are portrayed as perilous. Because of their closeness to the ground, they may hide deadly threats, such as vipers [^3].This literary assessment resonates more with the pre-Linnaean botanical classification, which focused on a vertical hierarchy among plants and assumed that the ones growing near the soil were often labeled as vulgar, unhealthy, or even dangerous.[^4].
 <param ve-iframe
 	  src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQDraHwbz1u4trTEIi-TTe5AUpNqFydsVHQOyfB8Q3k8C5jymaInWJhTmoyN_zwtoQWwboULF_2SM3E&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 	   
-The extrinsic language imposed on the strawberry plant through humanlike projection helps explain why, still in *The Tragedy of Othello, the Moor of Venice*, William Shakespeare used Desdemona’s white handkerchief adorned with strawberries as a powerful symbol of infidelity. The silk handkerchief, featuring embroidered spots of strawberries also dyed with pigments extracted from the hearts of mummified maidens, possesses magical powers and serves as Othello’s first gift to his wife. Therefore, it also becomes the false evidence of infidelity that Iago manipulates, ultimately driving Othello to murder Desdemona. As Lawrence J. Ross has argued, the handkerchief is not merely decorated: it is spotted by the strawberries as Desdemona in Othello’s eyes is now also stained[^7].
+The negative meaning imposed on the strawberry plant helps explain why, still in The Tragedy of Othello, the Moor of Venice*, William Shakespeare used Desdemona’s white handkerchief adorned with strawberries as a powerful symbol of infidelity. The silk handkerchief, featuring embroidered spots of strawberries also dyed with pigments extracted from the hearts of mummified maidens, possesses magical powers and serves as Othello’s first gift to his wife. Therefore, it also becomes the false evidence of infidelity that Iago manipulates, ultimately driving Othello to murder Desdemona[^5].
 <param ve-image
 	   src="wc:Othello_and_Desdemona_by_Daniel_Maclis.jpg"
 	   caption="*Othello and Desdemona*, Daniel Maclise, 1859, Wikipedia Commons. In this painting, Desdemona holds the ominous handkerchief with strawberries.">
@@ -143,14 +135,11 @@ src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 	   caption="Strawberries for sale at the U.S. Department of Agriculture (USDA)
                 Farmer’s Market, Ken Hammond, Washington, D.C., 2006.">
 
-### References:
-[^1]: Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants: Science, Philosophy, Literature* (Minneapolis: U of Minnesota P, 2017), p. X. 
-[^2]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants*, p. XVI
-[^3]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants*, p. XVII.
-[^4]:Dickenson, Victoria. *Berries*. (S.l.: Reaktion Books, 2020), pp. 44-5.
-[^5]:Dickenson, Victoria. *Berries*, p. 47.
-[^6]:Grieco, Allen J., "The Social Politics of Pre-Linnaean Botanical Classification," *Tatti Studies in the Italian Renaissance*, 4 (1991), p. 141.
-[^7]:Ross, Lawrence J., "The Meaning of Strawberries in Shakespeare," *Studies in the Renaissance*, 7 (1960), p. 239.
+[^1]: Too learn more about the concept "vegetal textuality", see Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants: Science, Philosophy, Literature* (Minneapolis: U of Minnesota P, 2017), p. XVI. 
+[^2]:Dickenson, Victoria. *Berries*. (S.l.: Reaktion Books, 2020), pp. 44-5.
+[^3]:Dickenson, Victoria. *Berries*, p. 47.
+[^4]:Grieco, Allen J., "The Social Politics of Pre-Linnaean Botanical Classification," *Tatti Studies in the Italian Renaissance*, 4 (1991), p. 141.
+[^5]: As Lawrence J. Ross has argued, the handkerchief is not merely decorated: it is spotted by the strawberries as Desdemona in Othello’s eyes is now also stained. See Ross, Lawrence J., "The Meaning of Strawberries in Shakespeare," *Studies in the Renaissance*, 7 (1960), p. 239.
 [^8]:Austen, Jane. *Emma* (London: MacMillan and Co, 1896), p. 323.
 [^9]:Thoreau, Henry D. *Wild Fruits* (New York: W.W. Norton & Company, 2001), pp.15-6.
 [^10]:Thoreau, Henry D. *Wild Fruits*, p. 12.
