@@ -120,7 +120,8 @@ In a different kind of festivity than the nineteenth-century European strawberry
                start="0:21"
                end="2:00"
 			   caption="Cherokee Storytelling: Origin of the Strawberry.">
-			   
+
+Strawberries evoke relationships rooted in kinship, affection, and emotional connections among North American Indigenous people. Potawatomi writer Robin Wall Kimmerer beautifully expresses this sentiment: "In a way, I was raised by strawberries, fields of them."  In her reflection, Kimmerer imbues strawberry plants with a maternal, protective, and formative role. She further illustrates this connection by recounting the mythic origin story, in which Sky Woman ascends back to the firmament, leaving behind the plants as teachers for her people.  This myth allows us to fully appreciate the writer’s intimate relationship with the strawberry plants, which she understands as sources of knowledge, as well as spiritual comfort and safety.		   
 			   
 	   Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production[^25]. 
 <param ve-compare
