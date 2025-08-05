@@ -125,23 +125,9 @@ Strawberries evoke relationships rooted in kinship, affection, and emotional con
 <param ve-iframe
                src="https://archive.org/details/braiding-sweetgrass-indigenous-wisdom-scientific-knowledge-and-the-teachings-of-plants_202212/page/21/mode/2up">
 			   
-	   
-<param ve-compare
-	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
-               caption="Twins">
-<param ve-compare
-               src="wc:Fragaria_virginiana_BW-1979-0522-0603.jpg">
-			   
-A French spy brought the Chilean strawberry (*Fragaria chiloensis*) from Chile to France in 1714. This species of strawberry had a quality the others lacked: size. It had fewer but larger flowers and gave rise to larger fruit. However, the Chilean strawberry was not hardy and was difficult to grow inland, away from mild coastal climates. 
-<param ve-video
-               src="ZKEC-zVjGOE"
-               start="0:00"
-               end="4:53"
-			   caption="This is a caption">
-			   
-Cultivating strawberries involves careful soil preparation, planting at the correct depth, providing adequate sunlight and water, and managing runners and weeds. Strawberries need well-drained soil, prefer full sun (6-8 hours daily), and benefit from regular fertilization. 
-<param ve-iframe
-               src="https://archive.org/details/completemanualfo00pard/page/n6">
+### Between Sensuality and the "Devil’s Fruit": The Paradoxes of the Strawberry Plant    
+
+How is it that a plant often associated with sensuality comes to be known as the "Devil’s Fruit"? To answer this question, we should consider a perceptive observation by Yota Batsaki and Philip Gant: "Plants have many personalities depending on their specific environmental and cultural contexts[^32]". Drawing on the research of anthropologist Dvera I. Saxton, we aim to present the contrast between the positive associations we have examined—such as sensuality and beauty, or the festive spirit linked to the strawberry plant—and the undesirable connotations that it may have for contemporary farmworkers. 
 
 
 [^1]: Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants: Science, Philosophy, Literature* (Minneapolis: U of Minnesota P, 2017), p. X. 
@@ -175,3 +161,4 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^29]: Dickenson, Victoria. *Berries*, p. 59.
 [^30]: Kimmerer, Robin Wall. *Braiding Sweetgrass for Young Adults: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants* (Minneapolis: Zest Books, 2022), p. 32.
 [^31]: Kimmerer, Robin Wall, "Ancient Green: Moss, Climate and Deep Time," *Emergence Magazine*, April 20, 2022, https://emergencemagazine.org/essay/ancient-green/
+[^32]:Batsaki, Yota, and Philip Gant, "The Secret Life of Kudzu," *Scientific American*, August 1, 2019, https://www.scientificamerican.com/blog/observations/the-secret-life-of-kudzu/
