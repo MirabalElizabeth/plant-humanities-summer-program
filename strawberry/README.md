@@ -90,10 +90,9 @@ Similar dynamics occur within the visual universe of *Fragaria chiloensis*. Even
 	   caption="Paintings by Vicente Albán, 1783, Museo de América, Spain.">
 <param ve-compare
                src="wc:India_en_traje_de_gala.jpg">
-			   
-			   
-
-Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
+			   			   
+Only in *Yapanga de Quito con el trage [sic] que usan esta clase de mugeres [sic] que tratan de agradar*, Albán chooses to depict the strawberry plant growing on the ground. He identifies the plant with the letter "G" and delineates it as "A small tree that produces strawberries, resembling those from Spain but much thicker and sweeter[^24]." As Daniela Bleichmar eloquently elucidated, the description indicates that the audience for these works was one unversed in the American products and that Mutis probably commissioned them as a patronage gift for a colonial Iberian institution such as the Natural History Cabinet. 
+Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production[^25]. 
 <param ve-compare
 	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
                caption="Twins">
@@ -135,3 +134,5 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^21]:The increasing popularity of *Fragaria chiloensis* became so significant that it began to be incorporated into garden designs well into the 20th century. A notable example can be found at Dumbarton Oaks. In her "Plant List: Path Edging from the South Gate to the Fountain Terrace of the Orangery," Beatrix Farrand included Fragaria chiloensis in the section titled "Spring Bulbs and Ground Covers." Additionally, it appeared in "Plant List: The Green Garden" under "Ground Covers." In Farrand’s instructions for "Enclosed Gardens," she explained that *Fragaria chiloensis* can only be used in the garden for a limited number of years because "as it is deciduous and the planting of the Garden Green should be evergreen, in order to be attractive throughout the winter when the garden is under frequent observation from the drawing-room windows and from the upper windows of the northeast part of the house." Farrand, Beatrix. *Beatrix Farrand’s Plant Book for Dumbarton Oaks*, ed. Jonathan Kavalier (Washington, D.C.: Dumbarton Oaks, 2022), p. 89. *Fragaria chiloensis* is considered an evergreen perennial herb with semi-dormant behavior. Farrand’s confusion may have arisen because the floral behavior of *Fragaria chiloensis*, has only been fully studied in recent times. Today, the Gardens and Grounds in Dumbarton Oaks do not grow this variety, but they have introduced *Fragaria virginiana* to test as a possible native groundcover, since this is the *Fragaria* species native to the eastern United States (Jonathan Kavalier in correspondence with Elizabeth Mirabal, July 7, 2025). 
 [^22]:Pablo Neruda, as documented by Lesley Wylie, had several books on Chilean plants in his personal library, including the 1716 French edition of Frézier’s work. See Wylie, Leslie. *The Poetics of Plants in Spanish American Literature*. (Pittsburgh: U of Pittsburg, 2024).
 [^23]:Frézier, Amédée François. *A Voyage to the South-Sea, and along the Coasts of Chili and Peru* (London: Jonah Bowyer, 1717), p. 76.
+[^24]:Translation by E.M.
+[^25]:Bleichmar, Daniela. *Visual Voyages. Images of Latin American Nature from Columbus to Darwin* (New Haven: Yale UP, 2017), p. 150. 
