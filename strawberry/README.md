@@ -52,8 +52,13 @@ Dickinson’s deep fascination with the strawberry plant transcended her literar
 			   
 ### Strawberry Beyond the Anglophone and European Spheres
 
-Used for centuries by the Picunche, Huilliche, and Mapuche indigenous peoples of the southernmost regions of the Andes to produce a highly esteemed fermented drink called lahueñe mushca, as well as an abortive substance, Fragaria chiloensis, the so-called Chilean strawberry, became known to Iberians in Chile in the mid-sixteenth century[^14]. As the Spanish soldier Alonso González de Nájera recalled, indigenous Chilean populations used strawberry fields as part of their resistance strategies against the foreign forces. In his reminiscences, González de Nájera detailed that they planted the "frutilla" on hillsides and prominent parts of the mountains to attract the conquistadors to the fields and then attack them by surprise as they ate the strawberries[^15]. 
-
+Used for centuries by the Picunche, Huilliche, and Mapuche indigenous peoples of the southernmost regions of the Andes to produce a highly esteemed fermented drink called lahueñe mushca, as well as an abortive substance, *Fragaria chiloensis*, the so-called Chilean strawberry, became known to Iberians in Chile in the mid-sixteenth century[^14]. As the Spanish soldier Alonso González de Nájera recalled, indigenous Chilean populations used strawberry fields as part of their resistance strategies against the foreign forces. In his reminiscences, González de Nájera detailed that they planted the "frutilla" on hillsides and prominent parts of the mountains to attract the conquistadors to the fields and then attack them by surprise as they ate the strawberries[^15]. 
+<param ve-video
+               src="CsyligH85mU&t=31s"
+               start="0:21"
+               end="0:39"
+			   caption="Video "The Origins of Frutilla Blanca: A One-Of-A-Kind Strawberry From Chile" by Richard Bernard and Ligia Parisi">
+			   
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
 	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
