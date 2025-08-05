@@ -129,7 +129,7 @@ Strawberries evoke relationships rooted in kinship, affection, and emotional con
 
 How is it that a plant often associated with sensuality comes to be known as the "Devil’s Fruit"? To answer this question, we should consider a perceptive observation by Yota Batsaki and Philip Gant: "Plants have many personalities depending on their specific environmental and cultural contexts[^32]". Drawing on the research of anthropologist Dvera I. Saxton, we aim to present the contrast between the positive associations we have examined—such as sensuality and beauty, or the festive spirit linked to the strawberry plant—and the undesirable connotations that it may have for contemporary farmworkers. 
 <param ve-image
-	   src="wc:_Picking_strawberries_in_an_irrigated_field_a_few_days_prior_to_evacuation_from_._._._-_NARA_-_537858.jpg"
+	   src="wc:Florin,_California._Picking_strawberries_in_irrigated_field_a_few_days_prior_to_evacuation_from_thi_._._._-_NARA_-_537857.jpg"
 	   caption="Yapanga de Quito con trage que usa esta clase de mugeres que tratan de agradar, Vicente Albán, 1783,
 Museo de América, Spain.">
 
