@@ -117,12 +117,12 @@ How is it that a plant often associated with sensuality comes to be known as the
 	   src="wc:Strawberry_gatherers_%281880%29%2C_by_William_Gunning_King.jpg"
 	   caption="Strawberry gatherers by William Gunning King, 1880.">
 	   
-As Saxton shows, picking strawberries requires workers to be stooped over for hours in often toxic and dangerous conditions, leading farmworkers to call them "la fruta del diablo" [the Devil’s fruit] [^33]. Those who work in strawberry fields describe their labor as the most grueling of all. Strawberry plants typically grow to a height of 4 to 5 inches and are cultivated in beds that are 8 to 12 inches off the ground, necessitating that farmworkers bend over for 10 to 12 hours a day to harvest the fruit[^34].This intense physical strain can lead to a condition known as foot drop, often referred to as "Strawberry Pickers’ Palsy." 
+As Saxton shows, picking strawberries requires workers to be stooped over for hours in often toxic and dangerous conditions, leading farmworkers to call them "la fruta del diablo" [the Devil’s fruit] [^27]. Those who work in strawberry fields describe their labor as the most grueling of all. Strawberry plants typically grow to a height of 4 to 5 inches and are cultivated in beds that are 8 to 12 inches off the ground, necessitating that farmworkers bend over for 10 to 12 hours a day to harvest the fruit[^28].This intense physical strain can lead to a condition known as foot drop, often referred to as "Strawberry Pickers’ Palsy." 
 <param ve-image
 src="wc:Farm_workers_pick_strawberries_in_in_Fort_Valley%2C_GA_20190507-OSEC-LSC-0744_%2840898326723%29.jpg"
 	   caption="Farm workers pick strawberries in Fort Valley, Georgia, 2019.">
 
-This serious ailment results from acute compression, traction, or laceration at the fibular head, commonly arising from activities like squatting, casting, or wearing tight boots.  We invite you to reflect on this reality the next time you savor a strawberry. The continuous and unnatural availability of these fruits in the market comes at a significant cost: their cultivators often pay with their physical health. 
+This serious ailment results from acute compression, traction, or laceration at the fibular head, commonly arising from activities like squatting, casting, or wearing tight boots[^29]. We invite you to reflect on this reality the next time you savor a strawberry. The continuous and unnatural availability of these fruits in the market comes at a significant cost: their cultivators often pay with their physical health. 
 <param ve-image
 src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 	   caption="Strawberries for sale at the U.S. Department of Agriculture (USDA)
@@ -153,7 +153,7 @@ src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 [^23]: Dickenson, Victoria. *Berries*, p. 59.
 [^24]: Kimmerer, Robin Wall. *Braiding Sweetgrass for Young Adults: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants* (Minneapolis: Zest Books, 2022), p. 32.
 [^25]: Kimmerer, Robin Wall, "Ancient Green: Moss, Climate and Deep Time," *Emergence Magazine*, April 20, 2022, https://emergencemagazine.org/essay/ancient-green/
-
-[^32]:Batsaki, Yota, and Philip Gant, "The Secret Life of Kudzu," *Scientific American*, August 1, 2019, https://www.scientificamerican.com/blog/observations/the-secret-life-of-kudzu/
-[^33]: Saxton, Dvera I. *The Devil’s Fruit: Farmworkers, Health, and Environmental Justice* (New Brunswick: Rutgers UP, 2021), pp. 56-7.
-[^34]:"La Fruta del Diablo. Battle for Justice in California Strawberry Fields," *Revolutionary Worker*, May 4, 1997, https://revcom.us/a/v19/905-09/905/farm.htm
+[^26]:Batsaki, Yota, and Philip Gant, "The Secret Life of Kudzu," *Scientific American*, August 1, 2019, https://www.scientificamerican.com/blog/observations/the-secret-life-of-kudzu/
+[^27]: Saxton, Dvera I. *The Devil’s Fruit: Farmworkers, Health, and Environmental Justice* (New Brunswick: Rutgers UP, 2021), pp. 56-7.
+[^28]:"La Fruta del Diablo. Battle for Justice in California Strawberry Fields," *Revolutionary Worker*, May 4, 1997, https://revcom.us/a/v19/905-09/905/farm.htm
+[^29]:Garg, Ruchika; Singh Arora K., Bansal N.; Gupta N.; and Kaur H. "Footdrop in the Farmers in Punjab: A Retrospective Electrodiagnostic Study," *Journal of Clinical and Diagnostic Research*, 6 (2012), p. 1653. 
