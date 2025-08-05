@@ -68,6 +68,14 @@ A second reference to Fragaria chiloensis expands the first allusions in Gonzál
                src="https://archive.org/details/historicarelacio00oval_0/page/n23/mode/2up">
 
 Although this strawberry variant was unfamiliar to Europeans, historical evidence indicates that it was already recognized across a broad region of southern America. In their language, the Mapuche distinguished between the wild and the cultivated strawberry, referring to the former as *llahuén* and the latter as *kellén*. Additionally, it is likely that the Picunches had contact with the northern agrarian Inca and may have been the first to bring elite plants from the wild into their home gardens[^19].
+<param ve-compare
+	   src="wc:Fragaria_chiloensis_kz01.jpg"
+	            zoom="1"
+               caption="François Rozier, *Cours d’agriculture*, tome 5, planche 4, figure 1,1784 and *Fragaria chiloensis*, 
+ in the Botanischer Garten, Berlin-Dahlem.">
+<param ve-compare
+               src="wc:Rozier_-_Cours_d’agriculture%2C_tome_5%2C_pl._4%2C_fig1.png">
+		
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
