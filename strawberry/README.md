@@ -121,7 +121,7 @@ In a different kind of festivity than the nineteenth-century European strawberry
                end="2:00"
 			   caption="Cherokee Storytelling: Origin of the Strawberry.">
 
-Strawberries evoke relationships rooted in kinship, affection, and emotional connections among North American Indigenous people. Potawatomi writer Robin Wall Kimmerer beautifully expresses this sentiment: "In a way, I was raised by strawberries, fields of them."  In her reflection, Kimmerer imbues strawberry plants with a maternal, protective, and formative role. She further illustrates this connection by recounting the mythic origin story, in which Sky Woman ascends back to the firmament, leaving behind the plants as teachers for her people.  This myth allows us to fully appreciate the writer’s intimate relationship with the strawberry plants, which she understands as sources of knowledge, as well as spiritual comfort and safety.		   
+Strawberries evoke relationships rooted in kinship, affection, and emotional connections among North American Indigenous people. Potawatomi writer Robin Wall Kimmerer beautifully expresses this sentiment: "In a way, I was raised by strawberries, fields of them[^30]." In her reflection, Kimmerer imbues strawberry plants with a maternal, protective, and formative role. She further illustrates this connection by recounting the mythic origin story, in which Sky Woman ascends back to the firmament, leaving behind the plants as teachers for her people[^31].This myth allows us to fully appreciate the writer’s intimate relationship with the strawberry plants, which she understands as sources of knowledge, as well as spiritual comfort and safety.		   
 			   
 	   
 <param ve-compare
@@ -171,3 +171,5 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^27]:Dickenson, Victoria. *Berries*, p. 59.
 [^28]: Kavasch, E. Barrie.*Enduring Harvests: Native American Foods and Festivals for Every Season* (Old Saybrook, Connecticut: Globe Pequot P, 1995), p. 266.
 [^29]: Dickenson, Victoria. *Berries*, p. 59.
+[^30]: Kimmerer, Robin Wall. *Braiding Sweetgrass for Young Adults: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants* (Minneapolis: Zest Books, 2022), p. 32.
+[^31]: Kimmerer, Robin Wall, "Ancient Green: Moss, Climate and Deep Time," *Emergence Magazine*, April 20, 2022, https://emergencemagazine.org/essay/ancient-green/
