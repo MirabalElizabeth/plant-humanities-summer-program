@@ -85,6 +85,13 @@ Frézier’s feat has been retold many times with overtones that border on ficti
                src="https://archive.org/details/voyagetosouthse00frzi/page/76/mode/2up">
 
 Similar dynamics occur within the visual universe of *Fragaria chiloensis*. Even when created by Creole artists, these works often catered to foreign commissions. For instance, at least three of the six 1783 paintings by the Ecuadorian artist Vicente Albán, who was commissioned by José Celestino Mutis, director of the New Granada expedition, feature strawberries. In *Yndio principal de Quito en trage [sic] de gala*, the main character is depicted holding a tray overflowing with strawberries as he reaches for one intending to eat it. Eternalized in this gesture before the degustation of the strawberry, the figure becomes part of a catalog of the riches and abundance of the New World and its generative sense of plenitude. Meanwhile, in *Yndia en trage [sic] de gala*, Albán offers the female counterpart to his previous character, still reiterating the existence of strawberries, this time accompanied by other American fruits in a large basket that emulates Demeter’s cornucopia.
+<param ve-compare
+	   src="wc:Indio_Principal_de_Quito_con_traje_de_gala.jpg"
+	   caption="Paintings by Vicente Albán, 1783, Museo de América, Spain.">
+<param ve-compare
+               src="wc:India_en_traje_de_gala.jpg">
+			   
+			   
 
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
