@@ -25,15 +25,12 @@ The negative meaning imposed on the strawberry plant helps explain why, still in
 	   src="wc:Othello_and_Desdemona_by_Daniel_Maclis.jpg"
 	   caption="*Othello and Desdemona*, Daniel Maclise, 1859, Wikipedia Commons. In this painting, Desdemona holds the ominous handkerchief with strawberries.">
 
-By the early nineteenth century, we find more cheerful approaches to strawberries. Novels such as Jane Austen’s *Emma* celebrated the popularity of strawberry parties among the upper classes, highlighting the delight they provided as a motive for pastime and outdoor activity. From one of the characters’ perspectives (Mrs. Elton), the Victorian novelist conveys the prominence and centrality that strawberries had attained in the cultural imaginary of the time. Austen underscores that the art of cultivating strawberries served not only as a source of entertainment and solace but also involved considerable physical effort: "Strawberries, and only strawberries, could now be thought or spoken of. ‘The best fruit in England—everybody’s favorite—always wholesome (…). Delightful to gather for one’s self—the only way of really enjoying them (…) only objection to gathering strawberries the stooping—glaring sun—tired to death—could bear it no longer—must go and sit in the shade.’"[^8]
-<param ve-iframe
-               src="https://archive.org/details/EmmaJaneAusten_753/page/n359/mode/2up">
+By the early nineteenth century, we find more cheerful approaches to strawberries. Novels such as Jane Austen’s *Emma* celebrated the popularity of strawberry parties among the upper classes, highlighting the delight they provided as a motive for pastime and outdoor activity. Even when the Victorian novelist underscores that the art of cultivating strawberries served as a source of entertainment and solace, that also involved considerable physical effort:"only objection to gathering strawberries the stooping—glaring sun—tired to death—could bear it no longer—must go and sit in the shade.’"[^6]
+<param ve-image
+src="wc:Queensland_State_Archives_2394_Strawberry_field_group_picking_at_Simpsons_strawberry_field_Blackall_Range_c_1899.png"
+	   caption="Group picking at Simpson's strawberry field, Blackall Range, 1899.">
 
-Beyond the Atlantic, the strawberry plant enjoyed its original Ovidian meaning among American transcendental writers, although it still retained erotic connotations. For instance, in Wild Fruits, Henry David Thoreau proclaims that strawberries are "the first blush of a country, its morning red, a sort of ambrosial food that grows only on Olympian soil."[^9] His unwavering focus on a plant, which, assuming an affective reading, qualifies as "so humble that it is an unnoticed carpet,"[^10] emerges among his vast botanical endeavors. He included two specimens of Fragaria virginiana in sequence 44 of the herbarium he compiled between 1850 and 1862 and documented his encounters with the strawberry plant in his diaries during his botanizing sessions on more than one occasion[^11].
-<param ve-iframe
-               src="https://archive.org/details/wildfruits00henr">
-			   
-Moving beyond a masculine perspective, another American poet, who lacked the public presence of Thoreau at the time—, highlights strawberries as a symbol of the freedom that has been denied to the poem’s feminine lyrical subject. In Emily Dickinson’s poem, the strawberry plants grow over the fence that encloses the garden from which she writes. The lyrical "I" explores the idea of not only crossing that barrier and enjoying the strawberries as an act of triumph and liberation —"I could climb —if I tried, I know—/Berries are nice!"[^12]— but also plays with the idea of a transmutation that would shield her from the social condemnation associated with trespassing: "Oh, dear, — I guess if He were a Boy — He’d — climb — if He could!"[^13]. By humanizing the divine figure of God, Dickinson emphasizes that even the most perfect being would find it impossible to resist the temptation of strawberries and the desire for the independence they inspire.
+Across the Atlantic, the strawberry plant maintained its original Ovidian significance among American transcendental writers, while still retaining erotic connotations that can be juxtaposed with less gendered interpretations by female writers. For instance, in *Wild Fruits*, Henry David Thoreau proclaims that strawberries are "the first blush of a country, its morning red, a sort of ambrosial food that grows only on Olympian soil."[^7] However, this perspective contrasts with an Emily Dickinson’s poem that highlights strawberries as a symbol of the freedom. In her composition, the strawberry plants grow over the fence that encloses the garden from which the lyrical "I" writes. The poem explores the idea of not only crossing that barrier and enjoying the strawberries as an act of triumph and liberation —"I could climb —if I tried, I know—/Berries are nice!"[^8]— but also plays with the idea of a transmutation that would shield her from the social condemnation associated with trespassing. 
 <param ve-image
 	   src="wc:Emily_Dickinson.jpg"
 	   caption="Daguerreotype of the poet Emily Dickinson, ca. 1848. The poet is holding violet flowers.">
@@ -120,9 +117,7 @@ Strawberries evoke relationships rooted in kinship, affection, and emotional con
 ### Between Sensuality and the "Devil’s Fruit": The Paradoxes of the Strawberry Plant    
 
 How is it that a plant often associated with sensuality comes to be known as the "Devil’s Fruit"? To answer this question, we should consider a perceptive observation by Yota Batsaki and Philip Gant: "Plants have many personalities depending on their specific environmental and cultural contexts[^32]". Drawing on the research of anthropologist Dvera I. Saxton, we aim to present the contrast between the positive associations we have examined—such as sensuality and beauty, or the festive spirit linked to the strawberry plant—and the undesirable connotations that it may have for contemporary farmworkers. 
-<param ve-image
-src="wc:Queensland_State_Archives_2394_Strawberry_field_group_picking_at_Simpsons_strawberry_field_Blackall_Range_c_1899.png"
-	   caption="Group picking at Simpson's strawberry field, Blackall Range, 1899.">
+
 	   
 As Saxton shows, picking strawberries requires workers to be stooped over for hours in often toxic and dangerous conditions, leading farmworkers to call them "la fruta del diablo" [the Devil’s fruit] [^33]. Those who work in strawberry fields describe their labor as the most grueling of all. Strawberry plants typically grow to a height of 4 to 5 inches and are cultivated in beds that are 8 to 12 inches off the ground, necessitating that farmworkers bend over for 10 to 12 hours a day to harvest the fruit[^34].This intense physical strain can lead to a condition known as foot drop, often referred to as "Strawberry Pickers’ Palsy." 
 <param ve-image
@@ -140,12 +135,10 @@ src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 [^3]:Dickenson, Victoria. *Berries*, p. 47.
 [^4]:Grieco, Allen J., "The Social Politics of Pre-Linnaean Botanical Classification," *Tatti Studies in the Italian Renaissance*, 4 (1991), p. 141.
 [^5]: As Lawrence J. Ross has argued, the handkerchief is not merely decorated: it is spotted by the strawberries as Desdemona in Othello’s eyes is now also stained. See Ross, Lawrence J., "The Meaning of Strawberries in Shakespeare," *Studies in the Renaissance*, 7 (1960), p. 239.
-[^8]:Austen, Jane. *Emma* (London: MacMillan and Co, 1896), p. 323.
-[^9]:Thoreau, Henry D. *Wild Fruits* (New York: W.W. Norton & Company, 2001), pp.15-6.
-[^10]:Thoreau, Henry D. *Wild Fruits*, p. 12.
-[^11]: To access to the strawberry plants collected by Thoreau, please visit the *Herbarium of Henry David Thoreau*, 1850-1862, Portfolio 2, Special Collections, Archives of the Gray Herbarium, Harvard University, seq. 44, https://nrs.lib.harvard.edu/URN-3:FMUS.GRA:104975392
-[^12]:Dickinson, Emily. *The Complete Poems of Emily Dickinson* (New York: Back Bay Books, 1976), p. 
-[^13]: Dickinson, Emily. *The Complete Poems of Emily Dickinson*, p. 115.
+[^6]:Austen, Jane. *Emma* (London: MacMillan and Co, 1896), p. 323.
+[^7]:Thoreau, Henry D. *Wild Fruits* (New York: W.W. Norton & Company, 2001), pp.15-6. His unwavering focus on a plant, which, assuming an affective reading, emerges among his vast botanical endeavors. He included two specimens of *Fragaria virginiana* in the intimate herbarium he compiled between 1850-62 and documented his encounters with the strawberry plant in his diaries on more than one occasion. To view the strawberry plants collected by Thoreau, please access the Herbarium of Henry David Thoreau, 1850-1862, Portfolio 2, Special Collections, Archives of the Gray Herbarium, Harvard University, seq. 44, https://nrs.lib.harvard.edu/URN-3:FMUS.GRA:104975392
+[^8]:Dickinson, Emily. *The Complete Poems of Emily Dickinson* (New York: Back Bay Books, 1976), p. 115.
+
 [^14]: See Sevilla, Elisa, and Ana Sevilla, "Strawberry," in *New World Objects of Knowledge: A Cabinet of Curiosities*, ed. Mark Thurner and Juan Pimentel (London: U of London, 2021), p. 210, and Darrow, George M. *The Strawberry. History, Breeding, and Physiology* (New York: Holt Rinehart and Winston, 1966), pp. 24-5.
 [^15]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile* (Madrid: Imprenta de la viuda de Calero, 1866), p. 168. Translation by Elizabeth Mirabal (E.M.). 
 [^16]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile*, p. 55. 
