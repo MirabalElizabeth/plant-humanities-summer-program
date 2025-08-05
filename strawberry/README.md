@@ -59,6 +59,8 @@ Used for centuries by the Picunche, Huilliche, and Mapuche indigenous peoples of
                end="0:39"
 			   caption="Video *The Origins of Frutilla Blanca: A One-Of-A-Kind Strawberry From Chile* by Richard Bernard and Ligia Parisi.">
 			   
+In what may be one of the earliest European descriptions of *Fragaria chiloensis*, González de Nájera noted that the fruit was extremely attractive, delicious, fragrant, and healthy, although he mentioned it was "somewhat phlegmy." [^16] He claimed it could rival the best fruits from Spain in quality. With a keen descriptive eye, González de Nájera remarked that the strawberries were heart-shaped, with the largest resembling small eggs and the smallest resembling walnuts, and coming in white or pink hues. The Spaniard concluded by accentuating their pleasant melting quality in the mouth, mentioning that indigenous people made wine from them and dried them in the sun to create raisins that were enjoyable to eat [^17].
+
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
 	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
@@ -93,3 +95,5 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^13]: Dickinson, Emily. *The Complete Poems of Emily Dickinson*, p. 115.
 [^14]: See Sevilla, Elisa, and Ana Sevilla, "Strawberry," in *New World Objects of Knowledge: A Cabinet of Curiosities*, ed. Mark Thurner and Juan Pimentel (London: U of London, 2021), p. 210, and Darrow, George M. *The Strawberry. History, Breeding, and Physiology* (New York: Holt Rinehart and Winston, 1966), pp. 24-5.
 [^15]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile* (Madrid: Imprenta de la viuda de Calero, 1866), p. 168. Translation by Elizabeth Mirabal (E.M.). 
+[^16]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile*, p. 55. 
+[^17]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile*, p. 55. 
