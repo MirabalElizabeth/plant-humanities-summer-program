@@ -63,6 +63,10 @@ In what may be one of the earliest European descriptions of *Fragaria chiloensis
 <param ve-iframe
                src="https://archive.org/details/desengaoyreparo00njgoog/page/54/mode/2up">
 
+A second reference to Fragaria chiloensis expands the first allusions in González de Nájera’s memoirs. The Chilean-born historian and priest Alonso de Ovalle recorded an account of strawberries in his book *Histórica relación del Reyno de Chile* (1646). He noted that their taste and smell differed significantly from those he had encountered in Rome. De Ovalle remarked that these fruits can grow "as large as pears" and revealed that, while they are usually red, there are also white and yellow varieties found on Concepción Island[^18]. 
+<param ve-iframe
+               src="https://archive.org/details/historicarelacio00oval_0/page/n23/mode/2up">
+
 Strawberries are cultivated by planting certified, disease-free plants in a sunny location with well-drained soil. Proper spacing, soil preparation, and maintenance are crucial for healthy growth and abundant fruit production. 
 <param ve-compare
 	   src="wc:A_fruiting_%E2%80%9CIngram%27s_Frogmore_Late_Pine%E2%80%9D_strawberry_plant_(Fr_Wellcome_V0044427.jpg"
@@ -99,3 +103,4 @@ Cultivating strawberries involves careful soil preparation, planting at the corr
 [^15]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile* (Madrid: Imprenta de la viuda de Calero, 1866), p. 168. Translation by Elizabeth Mirabal (E.M.). 
 [^16]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile*, p. 55. 
 [^17]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile*, p. 55. 
+[^18]: De Ovalle, Alonso. *Histórica relación del Reyno de Chile* (Roma: Francisco Cauallo, 1646), p. 8. Translation by E.M.
