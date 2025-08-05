@@ -129,10 +129,12 @@ Strawberries evoke relationships rooted in kinship, affection, and emotional con
 
 How is it that a plant often associated with sensuality comes to be known as the "Devil’s Fruit"? To answer this question, we should consider a perceptive observation by Yota Batsaki and Philip Gant: "Plants have many personalities depending on their specific environmental and cultural contexts[^32]". Drawing on the research of anthropologist Dvera I. Saxton, we aim to present the contrast between the positive associations we have examined—such as sensuality and beauty, or the festive spirit linked to the strawberry plant—and the undesirable connotations that it may have for contemporary farmworkers. 
 <param ve-image
-	   src="wc:Florin,_California._Picking_strawberries_in_irrigated_field_a_few_days_prior_to_evacuation_from_thi_._._._-_NARA_-_537857.jpg"
-	   caption="Yapanga de Quito con trage que usa esta clase de mugeres que tratan de agradar, Vicente Albán, 1783,
-Museo de América, Spain.">
+src="wc:Queensland_State_Archives_2394_Strawberry_field_group_picking_at_Simpsons_strawberry_field_Blackall_Range_c_1899.png"
+	   caption="Strawberry field group picking at Simpson's strawberry field, Blackall Range, 1899.">
+	   
+As Saxton shows, picking strawberries requires workers to be stooped over for hours in often toxic and dangerous conditions, leading farmworkers to call them "la fruta del diablo" [the Devil’s fruit] [^33]. Those who work in strawberry fields describe their labor as the most grueling of all. Strawberry plants typically grow to a height of 4 to 5 inches and are cultivated in beds that are 8 to 12 inches off the ground, necessitating that farmworkers bend over for 10 to 12 hours a day to harvest the fruit[^34].This intense physical strain can lead to a condition known as foot drop, often referred to as "Strawberry Pickers’ Palsy." 
 
+### References:
 [^1]: Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants: Science, Philosophy, Literature* (Minneapolis: U of Minnesota P, 2017), p. X. 
 [^2]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants*, p. XVI
 [^3]:Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants*, p. XVII.
@@ -165,3 +167,5 @@ Museo de América, Spain.">
 [^30]: Kimmerer, Robin Wall. *Braiding Sweetgrass for Young Adults: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants* (Minneapolis: Zest Books, 2022), p. 32.
 [^31]: Kimmerer, Robin Wall, "Ancient Green: Moss, Climate and Deep Time," *Emergence Magazine*, April 20, 2022, https://emergencemagazine.org/essay/ancient-green/
 [^32]:Batsaki, Yota, and Philip Gant, "The Secret Life of Kudzu," *Scientific American*, August 1, 2019, https://www.scientificamerican.com/blog/observations/the-secret-life-of-kudzu/
+[^33]: Saxton, Dvera I. *The Devil’s Fruit: Farmworkers, Health, and Environmental Justice* (New Brunswick: Rutgers UP, 2021), pp. 56-7.
+[^34]:"La Fruta del Diablo. Battle for Justice in California Strawberry Fields," *Revolutionary Worker*, May 4, 1997, https://revcom.us/a/v19/905-09/905/farm.htm
