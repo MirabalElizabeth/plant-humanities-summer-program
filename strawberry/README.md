@@ -36,8 +36,9 @@ Across the Atlantic, the strawberry plant maintained its original Ovidian signif
 	   caption="Daguerreotype of the poet Emily Dickinson, ca. 1848. The poet is holding violet flowers.">
 
 Dickinson’s deep fascination with the strawberry plant transcended her literary endeavors, blossoming into a vibrant herbarium she nurtured during her time at Amherst Academy, a passion she carried for seven years. The lower left corner of sheet 52 of her herbarium features a specimen of wild strawberry (*Fragaria virginiana*), where Dickinson notes details such as the five-petaled flower, displayed both in full bloom and still in bud, as well as the serrated edges of the leaves. Imagining the yellow stamens flourishing between April and May gives us a vision of Dickinson exploring the Amherst woods in springtime and witnessing the phenomenon known as "guttation," where water is exuded from the tips of leaf blades to relieve internal water pressure.
-<param ve-iframe
-               src="https://iiif.lib.harvard.edu/manifests/view/drs:4184689$52i">
+<param ve-image
+	   src="gh:MirabalElizabeth/plant-humanities-summer-program/main/strawberry/Emily.jpg"
+	   caption="Fragaria virginiana in Herbarium, Emily Dickinson, ca. 1839-1846. Houghton Library © President and Fellows of Harvard College.">
 			   
 ### Metropolitan Perspectives versus Indigenous Interpretations of Strawberries
 
@@ -50,7 +51,7 @@ While some knowledge and uses of *Fragaria chiloensis* plants among indigenous p
 			   
 A commercial and extractive spirit permeates the first Iberian and Creole descriptions of the strawberry, which differs from the affective relationships of the Indigenous people with the plant. In what may be one of the earliest European textual images of *Fragaria chiloensis*, González de Nájera noted that the fruit was attractive, delicious, fragrant, and healthy. With a keen descriptive eye, he concluded by accentuating their pleasant melting quality in the mouth, mentioning that indigenous people made wine from them and dried them in the sun to create raisins that were enjoyable to eat [^11].A second reference to Fragaria chiloensis expands the first allusions in González de Nájera’s memoirs. The Chilean-born historian and priest Alonso de Ovalle remarked that these fruits can grow "as large as pears" and revealed that, while they are usually red, there are also white and yellow varieties found on Concepción Island [^12]. 
 <param ve-iframe
-               src="https://archive.org/details/desengaoyreparo00njgoog/page/54/mode/2up">
+               src="https://archive.org/embed/desengaoyreparo00njgoog/page/54/mode/2up">
 
 Although this strawberry variant was unfamiliar to Europeans, historical evidence indicates that it was already recognized across a broad region of southern America. It is likely that the Picunches had contact with the northern agrarian Inca and may have been the first to bring elite plants from the wild into their home gardens [^13]. In Chapter XI of the first part of *Comentarios reales* (1609), titled "De las frutas de árboles mayores," Inca Garcilaso de la Vega refers to a fruit that he calls "chili" that arrived in Cuzco in 1557: "it is very tasty and very attractive; it grows on low plants, almost lying on the ground; it has a ridge at the top, like the ‘madroño’ tree, and is the same size, not round but somewhat elongated in the shape of a heart."[^14] This mention by De la Vega confirms that pre-Columbian populations had a robust association with the plant long before Spanish explorers noted it in their writings or French naval officer Captain Amédée François Frézier found the Chilean strawberry in the eighteenth century.
 <param ve-compare
