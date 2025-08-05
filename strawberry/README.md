@@ -39,7 +39,7 @@ Dickinson’s deep fascination with the strawberry plant transcended her literar
 <param ve-iframe
                src="https://iiif.lib.harvard.edu/manifests/view/drs:4184689$52i">
 			   
-### Strawberry Beyond the Anglophone and European Spheres
+### Metropolitan Perspectives versus Indigenous Interpretations of Strawberries
 
 Used for centuries by the Picunche, Huilliche, and Mapuche indigenous peoples of the southernmost regions of the Andes to produce a highly esteemed fermented drink called lahueñe mushca, as well as an abortive substance, *Fragaria chiloensis*, the so-called Chilean strawberry, became known to Iberians in Chile in the mid-sixteenth century[^14]. As the Spanish soldier Alonso González de Nájera recalled, indigenous Chilean populations used strawberry fields as part of their resistance strategies against the foreign forces. In his reminiscences, González de Nájera detailed that they planted the "frutilla" on hillsides and prominent parts of the mountains to attract the conquistadors to the fields and then attack them by surprise as they ate the strawberries[^15]. 
 <param ve-video
