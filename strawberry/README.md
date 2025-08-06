@@ -139,7 +139,7 @@ src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 [^8]:Dickinson, Emily. *The Complete Poems of Emily Dickinson* (New York: Back Bay Books, 1976), p. 115.
 [^9]: See Sevilla, Elisa, and Ana Sevilla, "Strawberry," in *New World Objects of Knowledge: A Cabinet of Curiosities*, ed. Mark Thurner and Juan Pimentel (London: U of London, 2021), p. 210, and Darrow, George M. *The Strawberry. History, Breeding, and Physiology* (New York: Holt Rinehart and Winston, 1966), pp. 24-5.
 [^10]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile* (Madrid: Imprenta de la viuda de Calero, 1866), p. 168. Translation by Elizabeth Mirabal (E.M.).
-[^11]:González de Nájera, Alonso. *Desengaño y reparo de la guerra del reino de Chile*, p. 55.  
+[^11]:González de Nájera, *Desengaño y reparo de la guerra del reino de Chile*, p. 55.  
 [^12]: De Ovalle, Alonso. *Histórica relación del Reyno de Chile* (Roma: Francisco Cauallo, 1646), p. 8. Translation by E.M.
 [^13]:Hancock, J. F., A. Lavín, and J.B. Retamales, "Our Southern Strawberry Heritage: Fragaria chiloensis of Chile," *HortScience*, 34 (1999), p. 814.
 [^14]:De la Vega, Garcilaso. *Comentarios reales* (Lisboa: Pedro Crasbeeck, 1609), p. 420. Translation by E.M.
