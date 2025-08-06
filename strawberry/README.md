@@ -151,7 +151,7 @@ src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 [^20]:Mistral, Gabriela. "La fresa" in *Ternura* (México, D.F.: Espasa-Calpe Mexicana, 1989), p. 118. Translation by E.M.
 [^21]:Dickenson, *Berries*, p. 59.
 [^22]: Kavasch, E. Barrie.*Enduring Harvests: Native American Foods and Festivals for Every Season* (Old Saybrook, Connecticut: Globe Pequot P, 1995), p. 266.
-[^23]: Dickenson, Victoria. *Berries*, p. 59.
+[^23]: Dickenson, *Berries*, p. 59.
 [^24]: Kimmerer, Robin Wall. *Braiding Sweetgrass for Young Adults: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants* (Minneapolis: Zest Books, 2022), p. 32.
 [^25]: Kimmerer, Robin Wall, "Ancient Green: Moss, Climate and Deep Time," *Emergence Magazine*, April 20, 2022, https://emergencemagazine.org/essay/ancient-green/
 [^26]:Batsaki, Yota, and Philip Gant, "The Secret Life of Kudzu," *Scientific American*, August 1, 2019, https://www.scientificamerican.com/blog/observations/the-secret-life-of-kudzu/
