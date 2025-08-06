@@ -25,7 +25,7 @@ The negative meaning imposed on the strawberry plant helps explain why, still in
 	   src="wc:Othello_and_Desdemona_by_Daniel_Maclis.jpg"
 	   caption="*Othello and Desdemona*, Daniel Maclise, 1859, Wikipedia Commons. In this painting, Desdemona holds the ominous handkerchief with strawberries.">
 
-By the early 19th century, we find more cheerful approaches to strawberries. Novels such as Jane Austen’s *Emma* celebrated the popularity of strawberry parties among the upper classes, highlighting the delight they provided as a motive for pastime and outdoor activity. Even when the Victorian novelist underscores that the art of cultivating strawberries served as a source of entertainment and solace, that also involved considerable physical effort:"only objection to gathering strawberries the stooping—glaring sun—tired to death—could bear it no longer—must go and sit in the shade.’"[^6]
+By the early 19th century, we find more cheerful approaches to strawberries. Novels such as Jane Austen’s *Emma* celebrated the popularity of strawberry parties among the upper classes, highlighting the delight they provided as a motive for pastime and outdoor activity. The Victorian novelist underscored that the art of cultivating strawberries served as a source of entertainment and solace, but it also involved considerable physical effort:"only objection to gathering strawberries the stooping—glaring sun—tired to death—could bear it no longer—must go and sit in the shade.’"[^6]
 <param ve-image
 src="wc:Queensland_State_Archives_2394_Strawberry_field_group_picking_at_Simpsons_strawberry_field_Blackall_Range_c_1899.png"
 	   caption="Group picking at Simpson's strawberry field, Blackall Range, 1899.">
