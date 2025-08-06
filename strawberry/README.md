@@ -157,4 +157,4 @@ src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 [^26]:Batsaki, Yota, and Philip Gant, "The Secret Life of Kudzu," *Scientific American*, August 1, 2019, https://www.scientificamerican.com/blog/observations/the-secret-life-of-kudzu/
 [^27]: Saxton, Dvera I. *The Devil’s Fruit: Farmworkers, Health, and Environmental Justice* (New Brunswick: Rutgers UP, 2021), pp. 56-7.
 [^28]:"La Fruta del Diablo. Battle for Justice in California Strawberry Fields," *Revolutionary Worker*, May 4, 1997, https://revcom.us/a/v19/905-09/905/farm.htm
-[^29]:Garg, Ruchika; Singh Arora K., Bansal N.; Gupta N.; and Kaur H. "Footdrop in the Farmers in Punjab: A Retrospective Electrodiagnostic Study," *Journal of Clinical and Diagnostic Research*, 6 (2012), p. 1653. 
+[^29]:Garg, Ruchika, et al. "Footdrop in the Farmers in Punjab: A Retrospective Electrodiagnostic Study," *Journal of Clinical and Diagnostic Research*, 6 (2012), p. 1653. 
