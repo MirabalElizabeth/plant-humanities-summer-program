@@ -131,7 +131,7 @@ src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 
 [^1]: Too learn more about the concept "vegetal textuality", see Gagliano, Monica, John C. Ryan, and Patrícia I. Vieira, *The Language of Plants: Science, Philosophy, Literature* (Minneapolis: U of Minnesota P, 2017), p. XVI. 
 [^2]:Dickenson, Victoria. *Berries*. (S.l.: Reaktion Books, 2020), pp. 44-5.
-[^3]:Dickenson, Victoria. *Berries*, p. 47.
+[^3]:Dickenson, *Berries*, p. 47.
 [^4]:Grieco, Allen J., "The Social Politics of Pre-Linnaean Botanical Classification," *Tatti Studies in the Italian Renaissance*, 4 (1991), p. 141.
 [^5]: As Lawrence J. Ross has argued, the handkerchief is not merely decorated: it is spotted by the strawberries as Desdemona in Othello’s eyes is now also stained. See Ross, Lawrence J., "The Meaning of Strawberries in Shakespeare," *Studies in the Renaissance*, 7 (1960), p. 239.
 [^6]:Austen, Jane. *Emma* (London: MacMillan and Co, 1896), p. 323.
@@ -149,7 +149,7 @@ src="wc:20120106-OC-AMW-0539_%287414202672%29.jpg"
 [^18]:Translation by E.M.
 [^19]:Bleichmar, Daniela. *Visual Voyages. Images of Latin American Nature from Columbus to Darwin* (New Haven: Yale UP, 2017), p. 150. 
 [^20]:Mistral, Gabriela. "La fresa" in *Ternura* (México, D.F.: Espasa-Calpe Mexicana, 1989), p. 118. Translation by E.M.
-[^21]:Dickenson, Victoria. *Berries*, p. 59.
+[^21]:Dickenson, *Berries*, p. 59.
 [^22]: Kavasch, E. Barrie.*Enduring Harvests: Native American Foods and Festivals for Every Season* (Old Saybrook, Connecticut: Globe Pequot P, 1995), p. 266.
 [^23]: Dickenson, Victoria. *Berries*, p. 59.
 [^24]: Kimmerer, Robin Wall. *Braiding Sweetgrass for Young Adults: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants* (Minneapolis: Zest Books, 2022), p. 32.
